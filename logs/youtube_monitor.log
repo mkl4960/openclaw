@@ -6684,3 +6684,678 @@ Begin forwarded message:
 2026-05-03 21:40:54,679 - INFO - Skipping already-processed message ID: <F5FDBF7F-24C1-41B6-9793-F672681D2827@yahoo.com>
 2026-05-03 21:40:54,679 - INFO - Skipping already-processed message ID: <7E3878D1-7A25-4DB5-AB91-558C9CE7A009@yahoo.com>
 2026-05-03 21:40:54,679 - INFO - ℹ️ No new links found
+2026-05-03 22:01:26,209 - INFO - 🚀 YouTube monitor script started
+2026-05-03 22:01:27,320 - INFO - 📧 Processing 20 emails...
+2026-05-03 22:01:27,320 - INFO - Loading sent links...
+2026-05-03 22:01:27,320 - INFO - Loaded 20 previously sent links, 33 processed message IDs
+2026-05-03 22:01:27,321 - INFO - Skipping already-processed message ID: <7270E473-1FA0-4B18-8D52-ED41A3003519@yahoo.com>
+2026-05-03 22:01:27,321 - INFO - Skipping already-processed message ID: <01E8DA25-0F9E-4F68-8B4E-D61A30251C6D@yahoo.com>
+2026-05-03 22:01:27,321 - INFO - Skipping already-processed message ID: <15AC3D59-8B21-4AAB-B987-5E301D188E95@yahoo.com>
+2026-05-03 22:01:27,321 - INFO - Skipping already-processed message ID: <578A32F1-DDEC-49EA-BC61-B2871A82BE8F@yahoo.com>
+2026-05-03 22:01:27,321 - INFO - Skipping already-processed message ID: <2417795A-852C-4051-B9F9-D79E95DA0578@yahoo.com>
+2026-05-03 22:01:27,321 - INFO - Skipping already-processed message ID: <F65C4CD9-DDD7-4CA3-B54B-CF0DEC0DFDEE@yahoo.com>
+2026-05-03 22:01:27,321 - INFO - Skipping already-processed message ID: <0100019ded4898fa-aae9c82a-cf76-41f8-8c3d-402c31b8a7ed-000000@email.amazonses.com>
+2026-05-03 22:01:27,321 - INFO - Skipping already-processed message ID: <BB136B87-2299-4B89-9A2E-B446E52DFA50@yahoo.com>
+2026-05-03 22:01:27,321 - INFO - Skipping already-processed message ID: <06D43F41-BB9A-4D85-9127-6E51FC50D7FD@yahoo.com>
+2026-05-03 22:01:27,321 - INFO - Skipping already-processed message ID: <957111A2-0F6C-4A9D-9ED6-D3B685869E33@yahoo.com>
+2026-05-03 22:01:27,321 - INFO - Skipping already-processed message ID: <F0E3D771-4716-472B-B375-8FCD1704055A@yahoo.com>
+2026-05-03 22:01:27,321 - INFO - Skipping already-processed message ID: <2AE4154D-4DE9-4188-8CD9-BA433528599C@yahoo.com>
+2026-05-03 22:01:27,321 - INFO - Skipping already-processed message ID: <2BB0CCC4-735B-4A5F-8019-A3B7CCC74D03@yahoo.com>
+2026-05-03 22:01:27,321 - INFO - Skipping already-processed message ID: <797218A6-4A17-4B87-B429-61B02C7183AD@yahoo.com>
+2026-05-03 22:01:27,321 - INFO - Skipping already-processed message ID: <27873746-1170-475E-9C21-7CE95948A671@yahoo.com>
+2026-05-03 22:01:27,321 - INFO - Skipping already-processed message ID: <22764553-180E-42BB-9898-BC855B10E550@yahoo.com>
+2026-05-03 22:01:27,321 - INFO - Skipping already-processed message ID: <C3317370-D2F5-409D-8D13-85A2F90FC6DB@yahoo.com>
+2026-05-03 22:01:27,321 - INFO - Skipping already-processed message ID: <0100019de822820b-cbbf2f75-c1ed-469c-85df-98c1ab947266-000000@email.amazonses.com>
+2026-05-03 22:01:27,321 - INFO - Skipping already-processed message ID: <F5FDBF7F-24C1-41B6-9793-F672681D2827@yahoo.com>
+2026-05-03 22:01:27,321 - INFO - Skipping already-processed message ID: <7E3878D1-7A25-4DB5-AB91-558C9CE7A009@yahoo.com>
+2026-05-03 22:01:27,321 - INFO - ℹ️ No new links found
+2026-05-03 22:30:15,789 - INFO - 🚀 YouTube monitor script started
+2026-05-03 22:30:16,814 - INFO - 📧 Processing 20 emails...
+2026-05-03 22:30:16,814 - INFO - Loading sent links...
+2026-05-03 22:30:16,815 - INFO - Loaded 20 previously sent links, 33 processed message IDs
+2026-05-03 22:30:16,815 - INFO - Skipping already-processed message ID: <7270E473-1FA0-4B18-8D52-ED41A3003519@yahoo.com>
+2026-05-03 22:30:16,815 - INFO - Skipping already-processed message ID: <01E8DA25-0F9E-4F68-8B4E-D61A30251C6D@yahoo.com>
+2026-05-03 22:30:16,815 - INFO - Skipping already-processed message ID: <15AC3D59-8B21-4AAB-B987-5E301D188E95@yahoo.com>
+2026-05-03 22:30:16,815 - INFO - Skipping already-processed message ID: <578A32F1-DDEC-49EA-BC61-B2871A82BE8F@yahoo.com>
+2026-05-03 22:30:16,815 - INFO - Skipping already-processed message ID: <2417795A-852C-4051-B9F9-D79E95DA0578@yahoo.com>
+2026-05-03 22:30:16,815 - INFO - Skipping already-processed message ID: <F65C4CD9-DDD7-4CA3-B54B-CF0DEC0DFDEE@yahoo.com>
+2026-05-03 22:30:16,815 - INFO - Skipping already-processed message ID: <0100019ded4898fa-aae9c82a-cf76-41f8-8c3d-402c31b8a7ed-000000@email.amazonses.com>
+2026-05-03 22:30:16,815 - INFO - Skipping already-processed message ID: <BB136B87-2299-4B89-9A2E-B446E52DFA50@yahoo.com>
+2026-05-03 22:30:16,815 - INFO - Skipping already-processed message ID: <06D43F41-BB9A-4D85-9127-6E51FC50D7FD@yahoo.com>
+2026-05-03 22:30:16,815 - INFO - Skipping already-processed message ID: <957111A2-0F6C-4A9D-9ED6-D3B685869E33@yahoo.com>
+2026-05-03 22:30:16,815 - INFO - Skipping already-processed message ID: <F0E3D771-4716-472B-B375-8FCD1704055A@yahoo.com>
+2026-05-03 22:30:16,815 - INFO - Skipping already-processed message ID: <2AE4154D-4DE9-4188-8CD9-BA433528599C@yahoo.com>
+2026-05-03 22:30:16,815 - INFO - Skipping already-processed message ID: <2BB0CCC4-735B-4A5F-8019-A3B7CCC74D03@yahoo.com>
+2026-05-03 22:30:16,816 - INFO - Skipping already-processed message ID: <797218A6-4A17-4B87-B429-61B02C7183AD@yahoo.com>
+2026-05-03 22:30:16,816 - INFO - Skipping already-processed message ID: <27873746-1170-475E-9C21-7CE95948A671@yahoo.com>
+2026-05-03 22:30:16,816 - INFO - Skipping already-processed message ID: <22764553-180E-42BB-9898-BC855B10E550@yahoo.com>
+2026-05-03 22:30:16,816 - INFO - Skipping already-processed message ID: <C3317370-D2F5-409D-8D13-85A2F90FC6DB@yahoo.com>
+2026-05-03 22:30:16,816 - INFO - Skipping already-processed message ID: <0100019de822820b-cbbf2f75-c1ed-469c-85df-98c1ab947266-000000@email.amazonses.com>
+2026-05-03 22:30:16,816 - INFO - Skipping already-processed message ID: <F5FDBF7F-24C1-41B6-9793-F672681D2827@yahoo.com>
+2026-05-03 22:30:16,816 - INFO - Skipping already-processed message ID: <7E3878D1-7A25-4DB5-AB91-558C9CE7A009@yahoo.com>
+2026-05-03 22:30:16,816 - INFO - ℹ️ No new links found
+2026-05-03 22:40:15,087 - INFO - 🚀 YouTube monitor script started
+2026-05-03 22:40:16,133 - INFO - 📧 Processing 20 emails...
+2026-05-03 22:40:16,133 - INFO - Loading sent links...
+2026-05-03 22:40:16,133 - INFO - Loaded 20 previously sent links, 33 processed message IDs
+2026-05-03 22:40:16,133 - INFO - Skipping already-processed message ID: <7270E473-1FA0-4B18-8D52-ED41A3003519@yahoo.com>
+2026-05-03 22:40:16,133 - INFO - Skipping already-processed message ID: <01E8DA25-0F9E-4F68-8B4E-D61A30251C6D@yahoo.com>
+2026-05-03 22:40:16,133 - INFO - Skipping already-processed message ID: <15AC3D59-8B21-4AAB-B987-5E301D188E95@yahoo.com>
+2026-05-03 22:40:16,134 - INFO - Skipping already-processed message ID: <578A32F1-DDEC-49EA-BC61-B2871A82BE8F@yahoo.com>
+2026-05-03 22:40:16,134 - INFO - Skipping already-processed message ID: <2417795A-852C-4051-B9F9-D79E95DA0578@yahoo.com>
+2026-05-03 22:40:16,134 - INFO - Skipping already-processed message ID: <F65C4CD9-DDD7-4CA3-B54B-CF0DEC0DFDEE@yahoo.com>
+2026-05-03 22:40:16,134 - INFO - Skipping already-processed message ID: <0100019ded4898fa-aae9c82a-cf76-41f8-8c3d-402c31b8a7ed-000000@email.amazonses.com>
+2026-05-03 22:40:16,134 - INFO - Skipping already-processed message ID: <BB136B87-2299-4B89-9A2E-B446E52DFA50@yahoo.com>
+2026-05-03 22:40:16,134 - INFO - Skipping already-processed message ID: <06D43F41-BB9A-4D85-9127-6E51FC50D7FD@yahoo.com>
+2026-05-03 22:40:16,134 - INFO - Skipping already-processed message ID: <957111A2-0F6C-4A9D-9ED6-D3B685869E33@yahoo.com>
+2026-05-03 22:40:16,134 - INFO - Skipping already-processed message ID: <F0E3D771-4716-472B-B375-8FCD1704055A@yahoo.com>
+2026-05-03 22:40:16,134 - INFO - Skipping already-processed message ID: <2AE4154D-4DE9-4188-8CD9-BA433528599C@yahoo.com>
+2026-05-03 22:40:16,134 - INFO - Skipping already-processed message ID: <2BB0CCC4-735B-4A5F-8019-A3B7CCC74D03@yahoo.com>
+2026-05-03 22:40:16,134 - INFO - Skipping already-processed message ID: <797218A6-4A17-4B87-B429-61B02C7183AD@yahoo.com>
+2026-05-03 22:40:16,134 - INFO - Skipping already-processed message ID: <27873746-1170-475E-9C21-7CE95948A671@yahoo.com>
+2026-05-03 22:40:16,134 - INFO - Skipping already-processed message ID: <22764553-180E-42BB-9898-BC855B10E550@yahoo.com>
+2026-05-03 22:40:16,134 - INFO - Skipping already-processed message ID: <C3317370-D2F5-409D-8D13-85A2F90FC6DB@yahoo.com>
+2026-05-03 22:40:16,134 - INFO - Skipping already-processed message ID: <0100019de822820b-cbbf2f75-c1ed-469c-85df-98c1ab947266-000000@email.amazonses.com>
+2026-05-03 22:40:16,134 - INFO - Skipping already-processed message ID: <F5FDBF7F-24C1-41B6-9793-F672681D2827@yahoo.com>
+2026-05-03 22:40:16,134 - INFO - Skipping already-processed message ID: <7E3878D1-7A25-4DB5-AB91-558C9CE7A009@yahoo.com>
+2026-05-03 22:40:16,134 - INFO - ℹ️ No new links found
+2026-05-03 22:50:46,264 - INFO - 🚀 YouTube monitor script started
+2026-05-03 22:50:47,613 - INFO - 📧 Processing 20 emails...
+2026-05-03 22:50:47,613 - INFO - Loading sent links...
+2026-05-03 22:50:47,614 - INFO - Loaded 20 previously sent links, 33 processed message IDs
+2026-05-03 22:50:47,614 - INFO - Skipping already-processed message ID: <7270E473-1FA0-4B18-8D52-ED41A3003519@yahoo.com>
+2026-05-03 22:50:47,614 - INFO - Skipping already-processed message ID: <01E8DA25-0F9E-4F68-8B4E-D61A30251C6D@yahoo.com>
+2026-05-03 22:50:47,614 - INFO - Skipping already-processed message ID: <15AC3D59-8B21-4AAB-B987-5E301D188E95@yahoo.com>
+2026-05-03 22:50:47,614 - INFO - Skipping already-processed message ID: <578A32F1-DDEC-49EA-BC61-B2871A82BE8F@yahoo.com>
+2026-05-03 22:50:47,614 - INFO - Skipping already-processed message ID: <2417795A-852C-4051-B9F9-D79E95DA0578@yahoo.com>
+2026-05-03 22:50:47,614 - INFO - Skipping already-processed message ID: <F65C4CD9-DDD7-4CA3-B54B-CF0DEC0DFDEE@yahoo.com>
+2026-05-03 22:50:47,614 - INFO - Skipping already-processed message ID: <0100019ded4898fa-aae9c82a-cf76-41f8-8c3d-402c31b8a7ed-000000@email.amazonses.com>
+2026-05-03 22:50:47,614 - INFO - Skipping already-processed message ID: <BB136B87-2299-4B89-9A2E-B446E52DFA50@yahoo.com>
+2026-05-03 22:50:47,614 - INFO - Skipping already-processed message ID: <06D43F41-BB9A-4D85-9127-6E51FC50D7FD@yahoo.com>
+2026-05-03 22:50:47,614 - INFO - Skipping already-processed message ID: <957111A2-0F6C-4A9D-9ED6-D3B685869E33@yahoo.com>
+2026-05-03 22:50:47,614 - INFO - Skipping already-processed message ID: <F0E3D771-4716-472B-B375-8FCD1704055A@yahoo.com>
+2026-05-03 22:50:47,614 - INFO - Skipping already-processed message ID: <2AE4154D-4DE9-4188-8CD9-BA433528599C@yahoo.com>
+2026-05-03 22:50:47,614 - INFO - Skipping already-processed message ID: <2BB0CCC4-735B-4A5F-8019-A3B7CCC74D03@yahoo.com>
+2026-05-03 22:50:47,614 - INFO - Skipping already-processed message ID: <797218A6-4A17-4B87-B429-61B02C7183AD@yahoo.com>
+2026-05-03 22:50:47,614 - INFO - Skipping already-processed message ID: <27873746-1170-475E-9C21-7CE95948A671@yahoo.com>
+2026-05-03 22:50:47,614 - INFO - Skipping already-processed message ID: <22764553-180E-42BB-9898-BC855B10E550@yahoo.com>
+2026-05-03 22:50:47,614 - INFO - Skipping already-processed message ID: <C3317370-D2F5-409D-8D13-85A2F90FC6DB@yahoo.com>
+2026-05-03 22:50:47,614 - INFO - Skipping already-processed message ID: <0100019de822820b-cbbf2f75-c1ed-469c-85df-98c1ab947266-000000@email.amazonses.com>
+2026-05-03 22:50:47,614 - INFO - Skipping already-processed message ID: <F5FDBF7F-24C1-41B6-9793-F672681D2827@yahoo.com>
+2026-05-03 22:50:47,615 - INFO - Skipping already-processed message ID: <7E3878D1-7A25-4DB5-AB91-558C9CE7A009@yahoo.com>
+2026-05-03 22:50:47,615 - INFO - ℹ️ No new links found
+2026-05-03 23:10:12,691 - INFO - 🚀 YouTube monitor script started
+2026-05-03 23:10:13,711 - INFO - 📧 Processing 20 emails...
+2026-05-03 23:10:13,711 - INFO - Loading sent links...
+2026-05-03 23:10:13,712 - INFO - Loaded 20 previously sent links, 33 processed message IDs
+2026-05-03 23:10:13,712 - INFO - Skipping already-processed message ID: <7270E473-1FA0-4B18-8D52-ED41A3003519@yahoo.com>
+2026-05-03 23:10:13,713 - INFO - Skipping already-processed message ID: <01E8DA25-0F9E-4F68-8B4E-D61A30251C6D@yahoo.com>
+2026-05-03 23:10:13,713 - INFO - Skipping already-processed message ID: <15AC3D59-8B21-4AAB-B987-5E301D188E95@yahoo.com>
+2026-05-03 23:10:13,713 - INFO - Skipping already-processed message ID: <578A32F1-DDEC-49EA-BC61-B2871A82BE8F@yahoo.com>
+2026-05-03 23:10:13,713 - INFO - Skipping already-processed message ID: <2417795A-852C-4051-B9F9-D79E95DA0578@yahoo.com>
+2026-05-03 23:10:13,713 - INFO - Skipping already-processed message ID: <F65C4CD9-DDD7-4CA3-B54B-CF0DEC0DFDEE@yahoo.com>
+2026-05-03 23:10:13,713 - INFO - Skipping already-processed message ID: <0100019ded4898fa-aae9c82a-cf76-41f8-8c3d-402c31b8a7ed-000000@email.amazonses.com>
+2026-05-03 23:10:13,714 - INFO - Skipping already-processed message ID: <BB136B87-2299-4B89-9A2E-B446E52DFA50@yahoo.com>
+2026-05-03 23:10:13,714 - INFO - Skipping already-processed message ID: <06D43F41-BB9A-4D85-9127-6E51FC50D7FD@yahoo.com>
+2026-05-03 23:10:13,714 - INFO - Skipping already-processed message ID: <957111A2-0F6C-4A9D-9ED6-D3B685869E33@yahoo.com>
+2026-05-03 23:10:13,714 - INFO - Skipping already-processed message ID: <F0E3D771-4716-472B-B375-8FCD1704055A@yahoo.com>
+2026-05-03 23:10:13,714 - INFO - Skipping already-processed message ID: <2AE4154D-4DE9-4188-8CD9-BA433528599C@yahoo.com>
+2026-05-03 23:10:13,714 - INFO - Skipping already-processed message ID: <2BB0CCC4-735B-4A5F-8019-A3B7CCC74D03@yahoo.com>
+2026-05-03 23:10:13,714 - INFO - Skipping already-processed message ID: <797218A6-4A17-4B87-B429-61B02C7183AD@yahoo.com>
+2026-05-03 23:10:13,714 - INFO - Skipping already-processed message ID: <27873746-1170-475E-9C21-7CE95948A671@yahoo.com>
+2026-05-03 23:10:13,715 - INFO - Skipping already-processed message ID: <22764553-180E-42BB-9898-BC855B10E550@yahoo.com>
+2026-05-03 23:10:13,715 - INFO - Skipping already-processed message ID: <C3317370-D2F5-409D-8D13-85A2F90FC6DB@yahoo.com>
+2026-05-03 23:10:13,715 - INFO - Skipping already-processed message ID: <0100019de822820b-cbbf2f75-c1ed-469c-85df-98c1ab947266-000000@email.amazonses.com>
+2026-05-03 23:10:13,715 - INFO - Skipping already-processed message ID: <F5FDBF7F-24C1-41B6-9793-F672681D2827@yahoo.com>
+2026-05-03 23:10:13,715 - INFO - Skipping already-processed message ID: <7E3878D1-7A25-4DB5-AB91-558C9CE7A009@yahoo.com>
+2026-05-03 23:10:13,715 - INFO - ℹ️ No new links found
+2026-05-03 23:20:16,261 - INFO - 🚀 YouTube monitor script started
+2026-05-03 23:20:17,332 - INFO - 📧 Processing 20 emails...
+2026-05-03 23:20:17,332 - INFO - Loading sent links...
+2026-05-03 23:20:17,333 - INFO - Loaded 20 previously sent links, 33 processed message IDs
+2026-05-03 23:20:17,333 - INFO - Skipping already-processed message ID: <7270E473-1FA0-4B18-8D52-ED41A3003519@yahoo.com>
+2026-05-03 23:20:17,333 - INFO - Skipping already-processed message ID: <01E8DA25-0F9E-4F68-8B4E-D61A30251C6D@yahoo.com>
+2026-05-03 23:20:17,333 - INFO - Skipping already-processed message ID: <15AC3D59-8B21-4AAB-B987-5E301D188E95@yahoo.com>
+2026-05-03 23:20:17,333 - INFO - Skipping already-processed message ID: <578A32F1-DDEC-49EA-BC61-B2871A82BE8F@yahoo.com>
+2026-05-03 23:20:17,333 - INFO - Skipping already-processed message ID: <2417795A-852C-4051-B9F9-D79E95DA0578@yahoo.com>
+2026-05-03 23:20:17,333 - INFO - Skipping already-processed message ID: <F65C4CD9-DDD7-4CA3-B54B-CF0DEC0DFDEE@yahoo.com>
+2026-05-03 23:20:17,333 - INFO - Skipping already-processed message ID: <0100019ded4898fa-aae9c82a-cf76-41f8-8c3d-402c31b8a7ed-000000@email.amazonses.com>
+2026-05-03 23:20:17,333 - INFO - Skipping already-processed message ID: <BB136B87-2299-4B89-9A2E-B446E52DFA50@yahoo.com>
+2026-05-03 23:20:17,333 - INFO - Skipping already-processed message ID: <06D43F41-BB9A-4D85-9127-6E51FC50D7FD@yahoo.com>
+2026-05-03 23:20:17,333 - INFO - Skipping already-processed message ID: <957111A2-0F6C-4A9D-9ED6-D3B685869E33@yahoo.com>
+2026-05-03 23:20:17,333 - INFO - Skipping already-processed message ID: <F0E3D771-4716-472B-B375-8FCD1704055A@yahoo.com>
+2026-05-03 23:20:17,334 - INFO - Skipping already-processed message ID: <2AE4154D-4DE9-4188-8CD9-BA433528599C@yahoo.com>
+2026-05-03 23:20:17,334 - INFO - Skipping already-processed message ID: <2BB0CCC4-735B-4A5F-8019-A3B7CCC74D03@yahoo.com>
+2026-05-03 23:20:17,334 - INFO - Skipping already-processed message ID: <797218A6-4A17-4B87-B429-61B02C7183AD@yahoo.com>
+2026-05-03 23:20:17,334 - INFO - Skipping already-processed message ID: <27873746-1170-475E-9C21-7CE95948A671@yahoo.com>
+2026-05-03 23:20:17,334 - INFO - Skipping already-processed message ID: <22764553-180E-42BB-9898-BC855B10E550@yahoo.com>
+2026-05-03 23:20:17,334 - INFO - Skipping already-processed message ID: <C3317370-D2F5-409D-8D13-85A2F90FC6DB@yahoo.com>
+2026-05-03 23:20:17,334 - INFO - Skipping already-processed message ID: <0100019de822820b-cbbf2f75-c1ed-469c-85df-98c1ab947266-000000@email.amazonses.com>
+2026-05-03 23:20:17,334 - INFO - Skipping already-processed message ID: <F5FDBF7F-24C1-41B6-9793-F672681D2827@yahoo.com>
+2026-05-03 23:20:17,334 - INFO - Skipping already-processed message ID: <7E3878D1-7A25-4DB5-AB91-558C9CE7A009@yahoo.com>
+2026-05-03 23:20:17,334 - INFO - ℹ️ No new links found
+2026-05-03 23:30:36,710 - INFO - 🚀 YouTube monitor script started
+2026-05-03 23:30:37,630 - INFO - 📧 Processing 20 emails...
+2026-05-03 23:30:37,630 - INFO - Loading sent links...
+2026-05-03 23:30:37,631 - INFO - Loaded 20 previously sent links, 33 processed message IDs
+2026-05-03 23:30:37,631 - INFO - Skipping already-processed message ID: <7270E473-1FA0-4B18-8D52-ED41A3003519@yahoo.com>
+2026-05-03 23:30:37,631 - INFO - Skipping already-processed message ID: <01E8DA25-0F9E-4F68-8B4E-D61A30251C6D@yahoo.com>
+2026-05-03 23:30:37,631 - INFO - Skipping already-processed message ID: <15AC3D59-8B21-4AAB-B987-5E301D188E95@yahoo.com>
+2026-05-03 23:30:37,631 - INFO - Skipping already-processed message ID: <578A32F1-DDEC-49EA-BC61-B2871A82BE8F@yahoo.com>
+2026-05-03 23:30:37,631 - INFO - Skipping already-processed message ID: <2417795A-852C-4051-B9F9-D79E95DA0578@yahoo.com>
+2026-05-03 23:30:37,631 - INFO - Skipping already-processed message ID: <F65C4CD9-DDD7-4CA3-B54B-CF0DEC0DFDEE@yahoo.com>
+2026-05-03 23:30:37,631 - INFO - Skipping already-processed message ID: <0100019ded4898fa-aae9c82a-cf76-41f8-8c3d-402c31b8a7ed-000000@email.amazonses.com>
+2026-05-03 23:30:37,631 - INFO - Skipping already-processed message ID: <BB136B87-2299-4B89-9A2E-B446E52DFA50@yahoo.com>
+2026-05-03 23:30:37,631 - INFO - Skipping already-processed message ID: <06D43F41-BB9A-4D85-9127-6E51FC50D7FD@yahoo.com>
+2026-05-03 23:30:37,631 - INFO - Skipping already-processed message ID: <957111A2-0F6C-4A9D-9ED6-D3B685869E33@yahoo.com>
+2026-05-03 23:30:37,631 - INFO - Skipping already-processed message ID: <F0E3D771-4716-472B-B375-8FCD1704055A@yahoo.com>
+2026-05-03 23:30:37,632 - INFO - Skipping already-processed message ID: <2AE4154D-4DE9-4188-8CD9-BA433528599C@yahoo.com>
+2026-05-03 23:30:37,632 - INFO - Skipping already-processed message ID: <2BB0CCC4-735B-4A5F-8019-A3B7CCC74D03@yahoo.com>
+2026-05-03 23:30:37,632 - INFO - Skipping already-processed message ID: <797218A6-4A17-4B87-B429-61B02C7183AD@yahoo.com>
+2026-05-03 23:30:37,632 - INFO - Skipping already-processed message ID: <27873746-1170-475E-9C21-7CE95948A671@yahoo.com>
+2026-05-03 23:30:37,632 - INFO - Skipping already-processed message ID: <22764553-180E-42BB-9898-BC855B10E550@yahoo.com>
+2026-05-03 23:30:37,632 - INFO - Skipping already-processed message ID: <C3317370-D2F5-409D-8D13-85A2F90FC6DB@yahoo.com>
+2026-05-03 23:30:37,632 - INFO - Skipping already-processed message ID: <0100019de822820b-cbbf2f75-c1ed-469c-85df-98c1ab947266-000000@email.amazonses.com>
+2026-05-03 23:30:37,632 - INFO - Skipping already-processed message ID: <F5FDBF7F-24C1-41B6-9793-F672681D2827@yahoo.com>
+2026-05-03 23:30:37,632 - INFO - Skipping already-processed message ID: <7E3878D1-7A25-4DB5-AB91-558C9CE7A009@yahoo.com>
+2026-05-03 23:30:37,632 - INFO - ℹ️ No new links found
+2026-05-03 23:40:13,734 - INFO - 🚀 YouTube monitor script started
+2026-05-03 23:40:14,992 - INFO - 📧 Processing 20 emails...
+2026-05-03 23:40:14,992 - INFO - Loading sent links...
+2026-05-03 23:40:14,992 - INFO - Loaded 20 previously sent links, 33 processed message IDs
+2026-05-03 23:40:14,992 - INFO - Skipping already-processed message ID: <7270E473-1FA0-4B18-8D52-ED41A3003519@yahoo.com>
+2026-05-03 23:40:14,993 - INFO - Skipping already-processed message ID: <01E8DA25-0F9E-4F68-8B4E-D61A30251C6D@yahoo.com>
+2026-05-03 23:40:14,993 - INFO - Skipping already-processed message ID: <15AC3D59-8B21-4AAB-B987-5E301D188E95@yahoo.com>
+2026-05-03 23:40:14,993 - INFO - Skipping already-processed message ID: <578A32F1-DDEC-49EA-BC61-B2871A82BE8F@yahoo.com>
+2026-05-03 23:40:14,993 - INFO - Skipping already-processed message ID: <2417795A-852C-4051-B9F9-D79E95DA0578@yahoo.com>
+2026-05-03 23:40:14,993 - INFO - Skipping already-processed message ID: <F65C4CD9-DDD7-4CA3-B54B-CF0DEC0DFDEE@yahoo.com>
+2026-05-03 23:40:14,993 - INFO - Skipping already-processed message ID: <0100019ded4898fa-aae9c82a-cf76-41f8-8c3d-402c31b8a7ed-000000@email.amazonses.com>
+2026-05-03 23:40:14,993 - INFO - Skipping already-processed message ID: <BB136B87-2299-4B89-9A2E-B446E52DFA50@yahoo.com>
+2026-05-03 23:40:14,993 - INFO - Skipping already-processed message ID: <06D43F41-BB9A-4D85-9127-6E51FC50D7FD@yahoo.com>
+2026-05-03 23:40:14,993 - INFO - Skipping already-processed message ID: <957111A2-0F6C-4A9D-9ED6-D3B685869E33@yahoo.com>
+2026-05-03 23:40:14,993 - INFO - Skipping already-processed message ID: <F0E3D771-4716-472B-B375-8FCD1704055A@yahoo.com>
+2026-05-03 23:40:14,993 - INFO - Skipping already-processed message ID: <2AE4154D-4DE9-4188-8CD9-BA433528599C@yahoo.com>
+2026-05-03 23:40:14,993 - INFO - Skipping already-processed message ID: <2BB0CCC4-735B-4A5F-8019-A3B7CCC74D03@yahoo.com>
+2026-05-03 23:40:14,993 - INFO - Skipping already-processed message ID: <797218A6-4A17-4B87-B429-61B02C7183AD@yahoo.com>
+2026-05-03 23:40:14,993 - INFO - Skipping already-processed message ID: <27873746-1170-475E-9C21-7CE95948A671@yahoo.com>
+2026-05-03 23:40:14,993 - INFO - Skipping already-processed message ID: <22764553-180E-42BB-9898-BC855B10E550@yahoo.com>
+2026-05-03 23:40:14,993 - INFO - Skipping already-processed message ID: <C3317370-D2F5-409D-8D13-85A2F90FC6DB@yahoo.com>
+2026-05-03 23:40:14,993 - INFO - Skipping already-processed message ID: <0100019de822820b-cbbf2f75-c1ed-469c-85df-98c1ab947266-000000@email.amazonses.com>
+2026-05-03 23:40:14,993 - INFO - Skipping already-processed message ID: <F5FDBF7F-24C1-41B6-9793-F672681D2827@yahoo.com>
+2026-05-03 23:40:14,993 - INFO - Skipping already-processed message ID: <7E3878D1-7A25-4DB5-AB91-558C9CE7A009@yahoo.com>
+2026-05-03 23:40:14,993 - INFO - ℹ️ No new links found
+2026-05-03 23:50:12,341 - INFO - 🚀 YouTube monitor script started
+2026-05-03 23:50:13,458 - INFO - 📧 Processing 20 emails...
+2026-05-03 23:50:13,458 - INFO - Loading sent links...
+2026-05-03 23:50:13,458 - INFO - Loaded 20 previously sent links, 33 processed message IDs
+2026-05-03 23:50:13,459 - INFO - Skipping already-processed message ID: <7270E473-1FA0-4B18-8D52-ED41A3003519@yahoo.com>
+2026-05-03 23:50:13,459 - INFO - Skipping already-processed message ID: <01E8DA25-0F9E-4F68-8B4E-D61A30251C6D@yahoo.com>
+2026-05-03 23:50:13,459 - INFO - Skipping already-processed message ID: <15AC3D59-8B21-4AAB-B987-5E301D188E95@yahoo.com>
+2026-05-03 23:50:13,459 - INFO - Skipping already-processed message ID: <578A32F1-DDEC-49EA-BC61-B2871A82BE8F@yahoo.com>
+2026-05-03 23:50:13,459 - INFO - Skipping already-processed message ID: <2417795A-852C-4051-B9F9-D79E95DA0578@yahoo.com>
+2026-05-03 23:50:13,459 - INFO - Skipping already-processed message ID: <F65C4CD9-DDD7-4CA3-B54B-CF0DEC0DFDEE@yahoo.com>
+2026-05-03 23:50:13,459 - INFO - Skipping already-processed message ID: <0100019ded4898fa-aae9c82a-cf76-41f8-8c3d-402c31b8a7ed-000000@email.amazonses.com>
+2026-05-03 23:50:13,459 - INFO - Skipping already-processed message ID: <BB136B87-2299-4B89-9A2E-B446E52DFA50@yahoo.com>
+2026-05-03 23:50:13,459 - INFO - Skipping already-processed message ID: <06D43F41-BB9A-4D85-9127-6E51FC50D7FD@yahoo.com>
+2026-05-03 23:50:13,460 - INFO - Skipping already-processed message ID: <957111A2-0F6C-4A9D-9ED6-D3B685869E33@yahoo.com>
+2026-05-03 23:50:13,460 - INFO - Skipping already-processed message ID: <F0E3D771-4716-472B-B375-8FCD1704055A@yahoo.com>
+2026-05-03 23:50:13,460 - INFO - Skipping already-processed message ID: <2AE4154D-4DE9-4188-8CD9-BA433528599C@yahoo.com>
+2026-05-03 23:50:13,460 - INFO - Skipping already-processed message ID: <2BB0CCC4-735B-4A5F-8019-A3B7CCC74D03@yahoo.com>
+2026-05-03 23:50:13,460 - INFO - Skipping already-processed message ID: <797218A6-4A17-4B87-B429-61B02C7183AD@yahoo.com>
+2026-05-03 23:50:13,460 - INFO - Skipping already-processed message ID: <27873746-1170-475E-9C21-7CE95948A671@yahoo.com>
+2026-05-03 23:50:13,460 - INFO - Skipping already-processed message ID: <22764553-180E-42BB-9898-BC855B10E550@yahoo.com>
+2026-05-03 23:50:13,460 - INFO - Skipping already-processed message ID: <C3317370-D2F5-409D-8D13-85A2F90FC6DB@yahoo.com>
+2026-05-03 23:50:13,460 - INFO - Skipping already-processed message ID: <0100019de822820b-cbbf2f75-c1ed-469c-85df-98c1ab947266-000000@email.amazonses.com>
+2026-05-03 23:50:13,460 - INFO - Skipping already-processed message ID: <F5FDBF7F-24C1-41B6-9793-F672681D2827@yahoo.com>
+2026-05-03 23:50:13,460 - INFO - Skipping already-processed message ID: <7E3878D1-7A25-4DB5-AB91-558C9CE7A009@yahoo.com>
+2026-05-03 23:50:13,460 - INFO - ℹ️ No new links found
+2026-05-03 23:51:00,420 - INFO - 🚀 YouTube monitor script started
+2026-05-03 23:51:01,292 - INFO - 📧 Processing 20 emails...
+2026-05-03 23:51:01,292 - INFO - Loading sent links...
+2026-05-03 23:51:01,292 - INFO - Loaded 20 previously sent links, 33 processed message IDs
+2026-05-03 23:51:01,292 - INFO - Skipping already-processed message ID: <7270E473-1FA0-4B18-8D52-ED41A3003519@yahoo.com>
+2026-05-03 23:51:01,292 - INFO - Skipping already-processed message ID: <01E8DA25-0F9E-4F68-8B4E-D61A30251C6D@yahoo.com>
+2026-05-03 23:51:01,292 - INFO - Skipping already-processed message ID: <15AC3D59-8B21-4AAB-B987-5E301D188E95@yahoo.com>
+2026-05-03 23:51:01,292 - INFO - Skipping already-processed message ID: <578A32F1-DDEC-49EA-BC61-B2871A82BE8F@yahoo.com>
+2026-05-03 23:51:01,292 - INFO - Skipping already-processed message ID: <2417795A-852C-4051-B9F9-D79E95DA0578@yahoo.com>
+2026-05-03 23:51:01,292 - INFO - Skipping already-processed message ID: <F65C4CD9-DDD7-4CA3-B54B-CF0DEC0DFDEE@yahoo.com>
+2026-05-03 23:51:01,293 - INFO - Skipping already-processed message ID: <0100019ded4898fa-aae9c82a-cf76-41f8-8c3d-402c31b8a7ed-000000@email.amazonses.com>
+2026-05-03 23:51:01,293 - INFO - Skipping already-processed message ID: <BB136B87-2299-4B89-9A2E-B446E52DFA50@yahoo.com>
+2026-05-03 23:51:01,293 - INFO - Skipping already-processed message ID: <06D43F41-BB9A-4D85-9127-6E51FC50D7FD@yahoo.com>
+2026-05-03 23:51:01,293 - INFO - Skipping already-processed message ID: <957111A2-0F6C-4A9D-9ED6-D3B685869E33@yahoo.com>
+2026-05-03 23:51:01,293 - INFO - Skipping already-processed message ID: <F0E3D771-4716-472B-B375-8FCD1704055A@yahoo.com>
+2026-05-03 23:51:01,293 - INFO - Skipping already-processed message ID: <2AE4154D-4DE9-4188-8CD9-BA433528599C@yahoo.com>
+2026-05-03 23:51:01,293 - INFO - Skipping already-processed message ID: <2BB0CCC4-735B-4A5F-8019-A3B7CCC74D03@yahoo.com>
+2026-05-03 23:51:01,293 - INFO - Skipping already-processed message ID: <797218A6-4A17-4B87-B429-61B02C7183AD@yahoo.com>
+2026-05-03 23:51:01,293 - INFO - Skipping already-processed message ID: <27873746-1170-475E-9C21-7CE95948A671@yahoo.com>
+2026-05-03 23:51:01,293 - INFO - Skipping already-processed message ID: <22764553-180E-42BB-9898-BC855B10E550@yahoo.com>
+2026-05-03 23:51:01,293 - INFO - Skipping already-processed message ID: <C3317370-D2F5-409D-8D13-85A2F90FC6DB@yahoo.com>
+2026-05-03 23:51:01,293 - INFO - Skipping already-processed message ID: <0100019de822820b-cbbf2f75-c1ed-469c-85df-98c1ab947266-000000@email.amazonses.com>
+2026-05-03 23:51:01,293 - INFO - Skipping already-processed message ID: <F5FDBF7F-24C1-41B6-9793-F672681D2827@yahoo.com>
+2026-05-03 23:51:01,293 - INFO - Skipping already-processed message ID: <7E3878D1-7A25-4DB5-AB91-558C9CE7A009@yahoo.com>
+2026-05-03 23:51:01,293 - INFO - ℹ️ No new links found
+2026-05-04 00:00:12,750 - INFO - 🚀 YouTube monitor script started
+2026-05-04 00:00:13,871 - INFO - 📧 Processing 20 emails...
+2026-05-04 00:00:13,871 - INFO - Loading sent links...
+2026-05-04 00:00:13,872 - INFO - Loaded 20 previously sent links, 33 processed message IDs
+2026-05-04 00:00:13,872 - INFO - Skipping already-processed message ID: <7270E473-1FA0-4B18-8D52-ED41A3003519@yahoo.com>
+2026-05-04 00:00:13,872 - INFO - Skipping already-processed message ID: <01E8DA25-0F9E-4F68-8B4E-D61A30251C6D@yahoo.com>
+2026-05-04 00:00:13,872 - INFO - Skipping already-processed message ID: <15AC3D59-8B21-4AAB-B987-5E301D188E95@yahoo.com>
+2026-05-04 00:00:13,872 - INFO - Skipping already-processed message ID: <578A32F1-DDEC-49EA-BC61-B2871A82BE8F@yahoo.com>
+2026-05-04 00:00:13,872 - INFO - Skipping already-processed message ID: <2417795A-852C-4051-B9F9-D79E95DA0578@yahoo.com>
+2026-05-04 00:00:13,872 - INFO - Skipping already-processed message ID: <F65C4CD9-DDD7-4CA3-B54B-CF0DEC0DFDEE@yahoo.com>
+2026-05-04 00:00:13,872 - INFO - Skipping already-processed message ID: <0100019ded4898fa-aae9c82a-cf76-41f8-8c3d-402c31b8a7ed-000000@email.amazonses.com>
+2026-05-04 00:00:13,872 - INFO - Skipping already-processed message ID: <BB136B87-2299-4B89-9A2E-B446E52DFA50@yahoo.com>
+2026-05-04 00:00:13,872 - INFO - Skipping already-processed message ID: <06D43F41-BB9A-4D85-9127-6E51FC50D7FD@yahoo.com>
+2026-05-04 00:00:13,872 - INFO - Skipping already-processed message ID: <957111A2-0F6C-4A9D-9ED6-D3B685869E33@yahoo.com>
+2026-05-04 00:00:13,872 - INFO - Skipping already-processed message ID: <F0E3D771-4716-472B-B375-8FCD1704055A@yahoo.com>
+2026-05-04 00:00:13,872 - INFO - Skipping already-processed message ID: <2AE4154D-4DE9-4188-8CD9-BA433528599C@yahoo.com>
+2026-05-04 00:00:13,872 - INFO - Skipping already-processed message ID: <2BB0CCC4-735B-4A5F-8019-A3B7CCC74D03@yahoo.com>
+2026-05-04 00:00:13,872 - INFO - Skipping already-processed message ID: <797218A6-4A17-4B87-B429-61B02C7183AD@yahoo.com>
+2026-05-04 00:00:13,872 - INFO - Skipping already-processed message ID: <27873746-1170-475E-9C21-7CE95948A671@yahoo.com>
+2026-05-04 00:00:13,873 - INFO - Skipping already-processed message ID: <22764553-180E-42BB-9898-BC855B10E550@yahoo.com>
+2026-05-04 00:00:13,873 - INFO - Skipping already-processed message ID: <C3317370-D2F5-409D-8D13-85A2F90FC6DB@yahoo.com>
+2026-05-04 00:00:13,873 - INFO - Skipping already-processed message ID: <0100019de822820b-cbbf2f75-c1ed-469c-85df-98c1ab947266-000000@email.amazonses.com>
+2026-05-04 00:00:13,873 - INFO - Skipping already-processed message ID: <F5FDBF7F-24C1-41B6-9793-F672681D2827@yahoo.com>
+2026-05-04 00:00:13,873 - INFO - Skipping already-processed message ID: <7E3878D1-7A25-4DB5-AB91-558C9CE7A009@yahoo.com>
+2026-05-04 00:00:13,873 - INFO - ℹ️ No new links found
+2026-05-04 00:10:45,108 - INFO - 🚀 YouTube monitor script started
+2026-05-04 00:10:45,981 - INFO - 📧 Processing 20 emails...
+2026-05-04 00:10:45,981 - INFO - Loading sent links...
+2026-05-04 00:10:45,981 - INFO - Loaded 20 previously sent links, 33 processed message IDs
+2026-05-04 00:10:45,981 - INFO - Skipping already-processed message ID: <7270E473-1FA0-4B18-8D52-ED41A3003519@yahoo.com>
+2026-05-04 00:10:45,981 - INFO - Skipping already-processed message ID: <01E8DA25-0F9E-4F68-8B4E-D61A30251C6D@yahoo.com>
+2026-05-04 00:10:45,982 - INFO - Skipping already-processed message ID: <15AC3D59-8B21-4AAB-B987-5E301D188E95@yahoo.com>
+2026-05-04 00:10:45,982 - INFO - Skipping already-processed message ID: <578A32F1-DDEC-49EA-BC61-B2871A82BE8F@yahoo.com>
+2026-05-04 00:10:45,982 - INFO - Skipping already-processed message ID: <2417795A-852C-4051-B9F9-D79E95DA0578@yahoo.com>
+2026-05-04 00:10:45,982 - INFO - Skipping already-processed message ID: <F65C4CD9-DDD7-4CA3-B54B-CF0DEC0DFDEE@yahoo.com>
+2026-05-04 00:10:45,982 - INFO - Skipping already-processed message ID: <0100019ded4898fa-aae9c82a-cf76-41f8-8c3d-402c31b8a7ed-000000@email.amazonses.com>
+2026-05-04 00:10:45,982 - INFO - Skipping already-processed message ID: <BB136B87-2299-4B89-9A2E-B446E52DFA50@yahoo.com>
+2026-05-04 00:10:45,982 - INFO - Skipping already-processed message ID: <06D43F41-BB9A-4D85-9127-6E51FC50D7FD@yahoo.com>
+2026-05-04 00:10:45,982 - INFO - Skipping already-processed message ID: <957111A2-0F6C-4A9D-9ED6-D3B685869E33@yahoo.com>
+2026-05-04 00:10:45,982 - INFO - Skipping already-processed message ID: <F0E3D771-4716-472B-B375-8FCD1704055A@yahoo.com>
+2026-05-04 00:10:45,982 - INFO - Skipping already-processed message ID: <2AE4154D-4DE9-4188-8CD9-BA433528599C@yahoo.com>
+2026-05-04 00:10:45,982 - INFO - Skipping already-processed message ID: <2BB0CCC4-735B-4A5F-8019-A3B7CCC74D03@yahoo.com>
+2026-05-04 00:10:45,982 - INFO - Skipping already-processed message ID: <797218A6-4A17-4B87-B429-61B02C7183AD@yahoo.com>
+2026-05-04 00:10:45,982 - INFO - Skipping already-processed message ID: <27873746-1170-475E-9C21-7CE95948A671@yahoo.com>
+2026-05-04 00:10:45,982 - INFO - Skipping already-processed message ID: <22764553-180E-42BB-9898-BC855B10E550@yahoo.com>
+2026-05-04 00:10:45,982 - INFO - Skipping already-processed message ID: <C3317370-D2F5-409D-8D13-85A2F90FC6DB@yahoo.com>
+2026-05-04 00:10:45,982 - INFO - Skipping already-processed message ID: <0100019de822820b-cbbf2f75-c1ed-469c-85df-98c1ab947266-000000@email.amazonses.com>
+2026-05-04 00:10:45,982 - INFO - Skipping already-processed message ID: <F5FDBF7F-24C1-41B6-9793-F672681D2827@yahoo.com>
+2026-05-04 00:10:45,982 - INFO - Skipping already-processed message ID: <7E3878D1-7A25-4DB5-AB91-558C9CE7A009@yahoo.com>
+2026-05-04 00:10:45,982 - INFO - ℹ️ No new links found
+2026-05-04 00:20:22,214 - INFO - 🚀 YouTube monitor script started
+2026-05-04 00:20:23,150 - INFO - 📧 Processing 20 emails...
+2026-05-04 00:20:23,151 - INFO - Loading sent links...
+2026-05-04 00:20:23,151 - INFO - Loaded 20 previously sent links, 33 processed message IDs
+2026-05-04 00:20:23,151 - INFO - Skipping already-processed message ID: <7270E473-1FA0-4B18-8D52-ED41A3003519@yahoo.com>
+2026-05-04 00:20:23,151 - INFO - Skipping already-processed message ID: <01E8DA25-0F9E-4F68-8B4E-D61A30251C6D@yahoo.com>
+2026-05-04 00:20:23,151 - INFO - Skipping already-processed message ID: <15AC3D59-8B21-4AAB-B987-5E301D188E95@yahoo.com>
+2026-05-04 00:20:23,151 - INFO - Skipping already-processed message ID: <578A32F1-DDEC-49EA-BC61-B2871A82BE8F@yahoo.com>
+2026-05-04 00:20:23,151 - INFO - Skipping already-processed message ID: <2417795A-852C-4051-B9F9-D79E95DA0578@yahoo.com>
+2026-05-04 00:20:23,151 - INFO - Skipping already-processed message ID: <F65C4CD9-DDD7-4CA3-B54B-CF0DEC0DFDEE@yahoo.com>
+2026-05-04 00:20:23,151 - INFO - Skipping already-processed message ID: <0100019ded4898fa-aae9c82a-cf76-41f8-8c3d-402c31b8a7ed-000000@email.amazonses.com>
+2026-05-04 00:20:23,151 - INFO - Skipping already-processed message ID: <BB136B87-2299-4B89-9A2E-B446E52DFA50@yahoo.com>
+2026-05-04 00:20:23,152 - INFO - Skipping already-processed message ID: <06D43F41-BB9A-4D85-9127-6E51FC50D7FD@yahoo.com>
+2026-05-04 00:20:23,152 - INFO - Skipping already-processed message ID: <957111A2-0F6C-4A9D-9ED6-D3B685869E33@yahoo.com>
+2026-05-04 00:20:23,152 - INFO - Skipping already-processed message ID: <F0E3D771-4716-472B-B375-8FCD1704055A@yahoo.com>
+2026-05-04 00:20:23,152 - INFO - Skipping already-processed message ID: <2AE4154D-4DE9-4188-8CD9-BA433528599C@yahoo.com>
+2026-05-04 00:20:23,152 - INFO - Skipping already-processed message ID: <2BB0CCC4-735B-4A5F-8019-A3B7CCC74D03@yahoo.com>
+2026-05-04 00:20:23,152 - INFO - Skipping already-processed message ID: <797218A6-4A17-4B87-B429-61B02C7183AD@yahoo.com>
+2026-05-04 00:20:23,152 - INFO - Skipping already-processed message ID: <27873746-1170-475E-9C21-7CE95948A671@yahoo.com>
+2026-05-04 00:20:23,152 - INFO - Skipping already-processed message ID: <22764553-180E-42BB-9898-BC855B10E550@yahoo.com>
+2026-05-04 00:20:23,152 - INFO - Skipping already-processed message ID: <C3317370-D2F5-409D-8D13-85A2F90FC6DB@yahoo.com>
+2026-05-04 00:20:23,152 - INFO - Skipping already-processed message ID: <0100019de822820b-cbbf2f75-c1ed-469c-85df-98c1ab947266-000000@email.amazonses.com>
+2026-05-04 00:20:23,152 - INFO - Skipping already-processed message ID: <F5FDBF7F-24C1-41B6-9793-F672681D2827@yahoo.com>
+2026-05-04 00:20:23,152 - INFO - Skipping already-processed message ID: <7E3878D1-7A25-4DB5-AB91-558C9CE7A009@yahoo.com>
+2026-05-04 00:20:23,152 - INFO - ℹ️ No new links found
+2026-05-04 00:40:11,731 - INFO - 🚀 YouTube monitor script started
+2026-05-04 00:40:12,676 - INFO - 📧 Processing 20 emails...
+2026-05-04 00:40:12,676 - INFO - Loading sent links...
+2026-05-04 00:40:12,677 - INFO - Loaded 20 previously sent links, 33 processed message IDs
+2026-05-04 00:40:12,677 - INFO - Skipping already-processed message ID: <7270E473-1FA0-4B18-8D52-ED41A3003519@yahoo.com>
+2026-05-04 00:40:12,677 - INFO - Skipping already-processed message ID: <01E8DA25-0F9E-4F68-8B4E-D61A30251C6D@yahoo.com>
+2026-05-04 00:40:12,677 - INFO - Skipping already-processed message ID: <15AC3D59-8B21-4AAB-B987-5E301D188E95@yahoo.com>
+2026-05-04 00:40:12,677 - INFO - Skipping already-processed message ID: <578A32F1-DDEC-49EA-BC61-B2871A82BE8F@yahoo.com>
+2026-05-04 00:40:12,677 - INFO - Skipping already-processed message ID: <2417795A-852C-4051-B9F9-D79E95DA0578@yahoo.com>
+2026-05-04 00:40:12,677 - INFO - Skipping already-processed message ID: <F65C4CD9-DDD7-4CA3-B54B-CF0DEC0DFDEE@yahoo.com>
+2026-05-04 00:40:12,677 - INFO - Skipping already-processed message ID: <0100019ded4898fa-aae9c82a-cf76-41f8-8c3d-402c31b8a7ed-000000@email.amazonses.com>
+2026-05-04 00:40:12,677 - INFO - Skipping already-processed message ID: <BB136B87-2299-4B89-9A2E-B446E52DFA50@yahoo.com>
+2026-05-04 00:40:12,677 - INFO - Skipping already-processed message ID: <06D43F41-BB9A-4D85-9127-6E51FC50D7FD@yahoo.com>
+2026-05-04 00:40:12,678 - INFO - Skipping already-processed message ID: <957111A2-0F6C-4A9D-9ED6-D3B685869E33@yahoo.com>
+2026-05-04 00:40:12,678 - INFO - Skipping already-processed message ID: <F0E3D771-4716-472B-B375-8FCD1704055A@yahoo.com>
+2026-05-04 00:40:12,678 - INFO - Skipping already-processed message ID: <2AE4154D-4DE9-4188-8CD9-BA433528599C@yahoo.com>
+2026-05-04 00:40:12,678 - INFO - Skipping already-processed message ID: <2BB0CCC4-735B-4A5F-8019-A3B7CCC74D03@yahoo.com>
+2026-05-04 00:40:12,678 - INFO - Skipping already-processed message ID: <797218A6-4A17-4B87-B429-61B02C7183AD@yahoo.com>
+2026-05-04 00:40:12,678 - INFO - Skipping already-processed message ID: <27873746-1170-475E-9C21-7CE95948A671@yahoo.com>
+2026-05-04 00:40:12,678 - INFO - Skipping already-processed message ID: <22764553-180E-42BB-9898-BC855B10E550@yahoo.com>
+2026-05-04 00:40:12,678 - INFO - Skipping already-processed message ID: <C3317370-D2F5-409D-8D13-85A2F90FC6DB@yahoo.com>
+2026-05-04 00:40:12,679 - INFO - Skipping already-processed message ID: <0100019de822820b-cbbf2f75-c1ed-469c-85df-98c1ab947266-000000@email.amazonses.com>
+2026-05-04 00:40:12,679 - INFO - Skipping already-processed message ID: <F5FDBF7F-24C1-41B6-9793-F672681D2827@yahoo.com>
+2026-05-04 00:40:12,679 - INFO - Skipping already-processed message ID: <7E3878D1-7A25-4DB5-AB91-558C9CE7A009@yahoo.com>
+2026-05-04 00:40:12,679 - INFO - ℹ️ No new links found
+2026-05-04 00:50:12,335 - INFO - 🚀 YouTube monitor script started
+2026-05-04 00:50:13,461 - INFO - 📧 Processing 20 emails...
+2026-05-04 00:50:13,461 - INFO - Loading sent links...
+2026-05-04 00:50:13,462 - INFO - Loaded 20 previously sent links, 33 processed message IDs
+2026-05-04 00:50:13,462 - INFO - Skipping already-processed message ID: <7270E473-1FA0-4B18-8D52-ED41A3003519@yahoo.com>
+2026-05-04 00:50:13,462 - INFO - Skipping already-processed message ID: <01E8DA25-0F9E-4F68-8B4E-D61A30251C6D@yahoo.com>
+2026-05-04 00:50:13,462 - INFO - Skipping already-processed message ID: <15AC3D59-8B21-4AAB-B987-5E301D188E95@yahoo.com>
+2026-05-04 00:50:13,462 - INFO - Skipping already-processed message ID: <578A32F1-DDEC-49EA-BC61-B2871A82BE8F@yahoo.com>
+2026-05-04 00:50:13,462 - INFO - Skipping already-processed message ID: <2417795A-852C-4051-B9F9-D79E95DA0578@yahoo.com>
+2026-05-04 00:50:13,462 - INFO - Skipping already-processed message ID: <F65C4CD9-DDD7-4CA3-B54B-CF0DEC0DFDEE@yahoo.com>
+2026-05-04 00:50:13,462 - INFO - Skipping already-processed message ID: <0100019ded4898fa-aae9c82a-cf76-41f8-8c3d-402c31b8a7ed-000000@email.amazonses.com>
+2026-05-04 00:50:13,462 - INFO - Skipping already-processed message ID: <BB136B87-2299-4B89-9A2E-B446E52DFA50@yahoo.com>
+2026-05-04 00:50:13,462 - INFO - Skipping already-processed message ID: <06D43F41-BB9A-4D85-9127-6E51FC50D7FD@yahoo.com>
+2026-05-04 00:50:13,462 - INFO - Skipping already-processed message ID: <957111A2-0F6C-4A9D-9ED6-D3B685869E33@yahoo.com>
+2026-05-04 00:50:13,462 - INFO - Skipping already-processed message ID: <F0E3D771-4716-472B-B375-8FCD1704055A@yahoo.com>
+2026-05-04 00:50:13,462 - INFO - Skipping already-processed message ID: <2AE4154D-4DE9-4188-8CD9-BA433528599C@yahoo.com>
+2026-05-04 00:50:13,462 - INFO - Skipping already-processed message ID: <2BB0CCC4-735B-4A5F-8019-A3B7CCC74D03@yahoo.com>
+2026-05-04 00:50:13,462 - INFO - Skipping already-processed message ID: <797218A6-4A17-4B87-B429-61B02C7183AD@yahoo.com>
+2026-05-04 00:50:13,462 - INFO - Skipping already-processed message ID: <27873746-1170-475E-9C21-7CE95948A671@yahoo.com>
+2026-05-04 00:50:13,463 - INFO - Skipping already-processed message ID: <22764553-180E-42BB-9898-BC855B10E550@yahoo.com>
+2026-05-04 00:50:13,463 - INFO - Skipping already-processed message ID: <C3317370-D2F5-409D-8D13-85A2F90FC6DB@yahoo.com>
+2026-05-04 00:50:13,463 - INFO - Skipping already-processed message ID: <0100019de822820b-cbbf2f75-c1ed-469c-85df-98c1ab947266-000000@email.amazonses.com>
+2026-05-04 00:50:13,463 - INFO - Skipping already-processed message ID: <F5FDBF7F-24C1-41B6-9793-F672681D2827@yahoo.com>
+2026-05-04 00:50:13,463 - INFO - Skipping already-processed message ID: <7E3878D1-7A25-4DB5-AB91-558C9CE7A009@yahoo.com>
+2026-05-04 00:50:13,463 - INFO - ℹ️ No new links found
+2026-05-04 01:00:10,343 - INFO - 🚀 YouTube monitor script started
+2026-05-04 01:00:11,264 - INFO - 📧 Processing 20 emails...
+2026-05-04 01:00:11,264 - INFO - Loading sent links...
+2026-05-04 01:00:11,265 - INFO - Loaded 20 previously sent links, 33 processed message IDs
+2026-05-04 01:00:11,265 - INFO - Skipping already-processed message ID: <7270E473-1FA0-4B18-8D52-ED41A3003519@yahoo.com>
+2026-05-04 01:00:11,265 - INFO - Skipping already-processed message ID: <01E8DA25-0F9E-4F68-8B4E-D61A30251C6D@yahoo.com>
+2026-05-04 01:00:11,265 - INFO - Skipping already-processed message ID: <15AC3D59-8B21-4AAB-B987-5E301D188E95@yahoo.com>
+2026-05-04 01:00:11,265 - INFO - Skipping already-processed message ID: <578A32F1-DDEC-49EA-BC61-B2871A82BE8F@yahoo.com>
+2026-05-04 01:00:11,265 - INFO - Skipping already-processed message ID: <2417795A-852C-4051-B9F9-D79E95DA0578@yahoo.com>
+2026-05-04 01:00:11,265 - INFO - Skipping already-processed message ID: <F65C4CD9-DDD7-4CA3-B54B-CF0DEC0DFDEE@yahoo.com>
+2026-05-04 01:00:11,265 - INFO - Skipping already-processed message ID: <0100019ded4898fa-aae9c82a-cf76-41f8-8c3d-402c31b8a7ed-000000@email.amazonses.com>
+2026-05-04 01:00:11,265 - INFO - Skipping already-processed message ID: <BB136B87-2299-4B89-9A2E-B446E52DFA50@yahoo.com>
+2026-05-04 01:00:11,265 - INFO - Skipping already-processed message ID: <06D43F41-BB9A-4D85-9127-6E51FC50D7FD@yahoo.com>
+2026-05-04 01:00:11,265 - INFO - Skipping already-processed message ID: <957111A2-0F6C-4A9D-9ED6-D3B685869E33@yahoo.com>
+2026-05-04 01:00:11,265 - INFO - Skipping already-processed message ID: <F0E3D771-4716-472B-B375-8FCD1704055A@yahoo.com>
+2026-05-04 01:00:11,265 - INFO - Skipping already-processed message ID: <2AE4154D-4DE9-4188-8CD9-BA433528599C@yahoo.com>
+2026-05-04 01:00:11,265 - INFO - Skipping already-processed message ID: <2BB0CCC4-735B-4A5F-8019-A3B7CCC74D03@yahoo.com>
+2026-05-04 01:00:11,265 - INFO - Skipping already-processed message ID: <797218A6-4A17-4B87-B429-61B02C7183AD@yahoo.com>
+2026-05-04 01:00:11,266 - INFO - Skipping already-processed message ID: <27873746-1170-475E-9C21-7CE95948A671@yahoo.com>
+2026-05-04 01:00:11,266 - INFO - Skipping already-processed message ID: <22764553-180E-42BB-9898-BC855B10E550@yahoo.com>
+2026-05-04 01:00:11,266 - INFO - Skipping already-processed message ID: <C3317370-D2F5-409D-8D13-85A2F90FC6DB@yahoo.com>
+2026-05-04 01:00:11,266 - INFO - Skipping already-processed message ID: <0100019de822820b-cbbf2f75-c1ed-469c-85df-98c1ab947266-000000@email.amazonses.com>
+2026-05-04 01:00:11,266 - INFO - Skipping already-processed message ID: <F5FDBF7F-24C1-41B6-9793-F672681D2827@yahoo.com>
+2026-05-04 01:00:11,266 - INFO - Skipping already-processed message ID: <7E3878D1-7A25-4DB5-AB91-558C9CE7A009@yahoo.com>
+2026-05-04 01:00:11,266 - INFO - ℹ️ No new links found
+2026-05-04 01:10:41,369 - INFO - 🚀 YouTube monitor script started
+2026-05-04 01:10:42,532 - INFO - 📧 Processing 20 emails...
+2026-05-04 01:10:42,533 - INFO - Loading sent links...
+2026-05-04 01:10:42,533 - INFO - Loaded 20 previously sent links, 33 processed message IDs
+2026-05-04 01:10:42,534 - INFO - Skipping already-processed message ID: <7270E473-1FA0-4B18-8D52-ED41A3003519@yahoo.com>
+2026-05-04 01:10:42,534 - INFO - Skipping already-processed message ID: <01E8DA25-0F9E-4F68-8B4E-D61A30251C6D@yahoo.com>
+2026-05-04 01:10:42,534 - INFO - Skipping already-processed message ID: <15AC3D59-8B21-4AAB-B987-5E301D188E95@yahoo.com>
+2026-05-04 01:10:42,534 - INFO - Skipping already-processed message ID: <578A32F1-DDEC-49EA-BC61-B2871A82BE8F@yahoo.com>
+2026-05-04 01:10:42,534 - INFO - Skipping already-processed message ID: <2417795A-852C-4051-B9F9-D79E95DA0578@yahoo.com>
+2026-05-04 01:10:42,534 - INFO - Skipping already-processed message ID: <F65C4CD9-DDD7-4CA3-B54B-CF0DEC0DFDEE@yahoo.com>
+2026-05-04 01:10:42,534 - INFO - Skipping already-processed message ID: <0100019ded4898fa-aae9c82a-cf76-41f8-8c3d-402c31b8a7ed-000000@email.amazonses.com>
+2026-05-04 01:10:42,534 - INFO - Skipping already-processed message ID: <BB136B87-2299-4B89-9A2E-B446E52DFA50@yahoo.com>
+2026-05-04 01:10:42,534 - INFO - Skipping already-processed message ID: <06D43F41-BB9A-4D85-9127-6E51FC50D7FD@yahoo.com>
+2026-05-04 01:10:42,534 - INFO - Skipping already-processed message ID: <957111A2-0F6C-4A9D-9ED6-D3B685869E33@yahoo.com>
+2026-05-04 01:10:42,534 - INFO - Skipping already-processed message ID: <F0E3D771-4716-472B-B375-8FCD1704055A@yahoo.com>
+2026-05-04 01:10:42,534 - INFO - Skipping already-processed message ID: <2AE4154D-4DE9-4188-8CD9-BA433528599C@yahoo.com>
+2026-05-04 01:10:42,534 - INFO - Skipping already-processed message ID: <2BB0CCC4-735B-4A5F-8019-A3B7CCC74D03@yahoo.com>
+2026-05-04 01:10:42,535 - INFO - Skipping already-processed message ID: <797218A6-4A17-4B87-B429-61B02C7183AD@yahoo.com>
+2026-05-04 01:10:42,535 - INFO - Skipping already-processed message ID: <27873746-1170-475E-9C21-7CE95948A671@yahoo.com>
+2026-05-04 01:10:42,535 - INFO - Skipping already-processed message ID: <22764553-180E-42BB-9898-BC855B10E550@yahoo.com>
+2026-05-04 01:10:42,535 - INFO - Skipping already-processed message ID: <C3317370-D2F5-409D-8D13-85A2F90FC6DB@yahoo.com>
+2026-05-04 01:10:42,535 - INFO - Skipping already-processed message ID: <0100019de822820b-cbbf2f75-c1ed-469c-85df-98c1ab947266-000000@email.amazonses.com>
+2026-05-04 01:10:42,535 - INFO - Skipping already-processed message ID: <F5FDBF7F-24C1-41B6-9793-F672681D2827@yahoo.com>
+2026-05-04 01:10:42,535 - INFO - Skipping already-processed message ID: <7E3878D1-7A25-4DB5-AB91-558C9CE7A009@yahoo.com>
+2026-05-04 01:10:42,535 - INFO - ℹ️ No new links found
+2026-05-04 01:20:19,256 - INFO - 🚀 YouTube monitor script started
+2026-05-04 01:20:20,413 - INFO - 📧 Processing 20 emails...
+2026-05-04 01:20:20,413 - INFO - Loading sent links...
+2026-05-04 01:20:20,413 - INFO - Loaded 20 previously sent links, 33 processed message IDs
+2026-05-04 01:20:20,413 - INFO - Skipping already-processed message ID: <7270E473-1FA0-4B18-8D52-ED41A3003519@yahoo.com>
+2026-05-04 01:20:20,413 - INFO - Skipping already-processed message ID: <01E8DA25-0F9E-4F68-8B4E-D61A30251C6D@yahoo.com>
+2026-05-04 01:20:20,413 - INFO - Skipping already-processed message ID: <15AC3D59-8B21-4AAB-B987-5E301D188E95@yahoo.com>
+2026-05-04 01:20:20,413 - INFO - Skipping already-processed message ID: <578A32F1-DDEC-49EA-BC61-B2871A82BE8F@yahoo.com>
+2026-05-04 01:20:20,414 - INFO - Skipping already-processed message ID: <2417795A-852C-4051-B9F9-D79E95DA0578@yahoo.com>
+2026-05-04 01:20:20,414 - INFO - Skipping already-processed message ID: <F65C4CD9-DDD7-4CA3-B54B-CF0DEC0DFDEE@yahoo.com>
+2026-05-04 01:20:20,414 - INFO - Skipping already-processed message ID: <0100019ded4898fa-aae9c82a-cf76-41f8-8c3d-402c31b8a7ed-000000@email.amazonses.com>
+2026-05-04 01:20:20,414 - INFO - Skipping already-processed message ID: <BB136B87-2299-4B89-9A2E-B446E52DFA50@yahoo.com>
+2026-05-04 01:20:20,414 - INFO - Skipping already-processed message ID: <06D43F41-BB9A-4D85-9127-6E51FC50D7FD@yahoo.com>
+2026-05-04 01:20:20,414 - INFO - Skipping already-processed message ID: <957111A2-0F6C-4A9D-9ED6-D3B685869E33@yahoo.com>
+2026-05-04 01:20:20,414 - INFO - Skipping already-processed message ID: <F0E3D771-4716-472B-B375-8FCD1704055A@yahoo.com>
+2026-05-04 01:20:20,414 - INFO - Skipping already-processed message ID: <2AE4154D-4DE9-4188-8CD9-BA433528599C@yahoo.com>
+2026-05-04 01:20:20,414 - INFO - Skipping already-processed message ID: <2BB0CCC4-735B-4A5F-8019-A3B7CCC74D03@yahoo.com>
+2026-05-04 01:20:20,414 - INFO - Skipping already-processed message ID: <797218A6-4A17-4B87-B429-61B02C7183AD@yahoo.com>
+2026-05-04 01:20:20,414 - INFO - Skipping already-processed message ID: <27873746-1170-475E-9C21-7CE95948A671@yahoo.com>
+2026-05-04 01:20:20,414 - INFO - Skipping already-processed message ID: <22764553-180E-42BB-9898-BC855B10E550@yahoo.com>
+2026-05-04 01:20:20,414 - INFO - Skipping already-processed message ID: <C3317370-D2F5-409D-8D13-85A2F90FC6DB@yahoo.com>
+2026-05-04 01:20:20,414 - INFO - Skipping already-processed message ID: <0100019de822820b-cbbf2f75-c1ed-469c-85df-98c1ab947266-000000@email.amazonses.com>
+2026-05-04 01:20:20,414 - INFO - Skipping already-processed message ID: <F5FDBF7F-24C1-41B6-9793-F672681D2827@yahoo.com>
+2026-05-04 01:20:20,414 - INFO - Skipping already-processed message ID: <7E3878D1-7A25-4DB5-AB91-558C9CE7A009@yahoo.com>
+2026-05-04 01:20:20,414 - INFO - ℹ️ No new links found
+2026-05-04 01:30:10,485 - INFO - 🚀 YouTube monitor script started
+2026-05-04 01:30:11,430 - INFO - 📧 Processing 20 emails...
+2026-05-04 01:30:11,430 - INFO - Loading sent links...
+2026-05-04 01:30:11,430 - INFO - Loaded 20 previously sent links, 33 processed message IDs
+2026-05-04 01:30:11,430 - INFO - Skipping already-processed message ID: <7270E473-1FA0-4B18-8D52-ED41A3003519@yahoo.com>
+2026-05-04 01:30:11,430 - INFO - Skipping already-processed message ID: <01E8DA25-0F9E-4F68-8B4E-D61A30251C6D@yahoo.com>
+2026-05-04 01:30:11,430 - INFO - Skipping already-processed message ID: <15AC3D59-8B21-4AAB-B987-5E301D188E95@yahoo.com>
+2026-05-04 01:30:11,430 - INFO - Skipping already-processed message ID: <578A32F1-DDEC-49EA-BC61-B2871A82BE8F@yahoo.com>
+2026-05-04 01:30:11,431 - INFO - Skipping already-processed message ID: <2417795A-852C-4051-B9F9-D79E95DA0578@yahoo.com>
+2026-05-04 01:30:11,431 - INFO - Skipping already-processed message ID: <F65C4CD9-DDD7-4CA3-B54B-CF0DEC0DFDEE@yahoo.com>
+2026-05-04 01:30:11,431 - INFO - Skipping already-processed message ID: <0100019ded4898fa-aae9c82a-cf76-41f8-8c3d-402c31b8a7ed-000000@email.amazonses.com>
+2026-05-04 01:30:11,431 - INFO - Skipping already-processed message ID: <BB136B87-2299-4B89-9A2E-B446E52DFA50@yahoo.com>
+2026-05-04 01:30:11,431 - INFO - Skipping already-processed message ID: <06D43F41-BB9A-4D85-9127-6E51FC50D7FD@yahoo.com>
+2026-05-04 01:30:11,431 - INFO - Skipping already-processed message ID: <957111A2-0F6C-4A9D-9ED6-D3B685869E33@yahoo.com>
+2026-05-04 01:30:11,431 - INFO - Skipping already-processed message ID: <F0E3D771-4716-472B-B375-8FCD1704055A@yahoo.com>
+2026-05-04 01:30:11,431 - INFO - Skipping already-processed message ID: <2AE4154D-4DE9-4188-8CD9-BA433528599C@yahoo.com>
+2026-05-04 01:30:11,431 - INFO - Skipping already-processed message ID: <2BB0CCC4-735B-4A5F-8019-A3B7CCC74D03@yahoo.com>
+2026-05-04 01:30:11,431 - INFO - Skipping already-processed message ID: <797218A6-4A17-4B87-B429-61B02C7183AD@yahoo.com>
+2026-05-04 01:30:11,431 - INFO - Skipping already-processed message ID: <27873746-1170-475E-9C21-7CE95948A671@yahoo.com>
+2026-05-04 01:30:11,431 - INFO - Skipping already-processed message ID: <22764553-180E-42BB-9898-BC855B10E550@yahoo.com>
+2026-05-04 01:30:11,431 - INFO - Skipping already-processed message ID: <C3317370-D2F5-409D-8D13-85A2F90FC6DB@yahoo.com>
+2026-05-04 01:30:11,431 - INFO - Skipping already-processed message ID: <0100019de822820b-cbbf2f75-c1ed-469c-85df-98c1ab947266-000000@email.amazonses.com>
+2026-05-04 01:30:11,431 - INFO - Skipping already-processed message ID: <F5FDBF7F-24C1-41B6-9793-F672681D2827@yahoo.com>
+2026-05-04 01:30:11,431 - INFO - Skipping already-processed message ID: <7E3878D1-7A25-4DB5-AB91-558C9CE7A009@yahoo.com>
+2026-05-04 01:30:11,431 - INFO - ℹ️ No new links found
+2026-05-04 01:40:21,108 - INFO - 🚀 YouTube monitor script started
+2026-05-04 01:40:22,064 - INFO - 📧 Processing 20 emails...
+2026-05-04 01:40:22,064 - INFO - Loading sent links...
+2026-05-04 01:40:22,065 - INFO - Loaded 20 previously sent links, 33 processed message IDs
+2026-05-04 01:40:22,065 - INFO - Skipping already-processed message ID: <7270E473-1FA0-4B18-8D52-ED41A3003519@yahoo.com>
+2026-05-04 01:40:22,065 - INFO - Skipping already-processed message ID: <01E8DA25-0F9E-4F68-8B4E-D61A30251C6D@yahoo.com>
+2026-05-04 01:40:22,065 - INFO - Skipping already-processed message ID: <15AC3D59-8B21-4AAB-B987-5E301D188E95@yahoo.com>
+2026-05-04 01:40:22,065 - INFO - Skipping already-processed message ID: <578A32F1-DDEC-49EA-BC61-B2871A82BE8F@yahoo.com>
+2026-05-04 01:40:22,065 - INFO - Skipping already-processed message ID: <2417795A-852C-4051-B9F9-D79E95DA0578@yahoo.com>
+2026-05-04 01:40:22,065 - INFO - Skipping already-processed message ID: <F65C4CD9-DDD7-4CA3-B54B-CF0DEC0DFDEE@yahoo.com>
+2026-05-04 01:40:22,065 - INFO - Skipping already-processed message ID: <0100019ded4898fa-aae9c82a-cf76-41f8-8c3d-402c31b8a7ed-000000@email.amazonses.com>
+2026-05-04 01:40:22,065 - INFO - Skipping already-processed message ID: <BB136B87-2299-4B89-9A2E-B446E52DFA50@yahoo.com>
+2026-05-04 01:40:22,065 - INFO - Skipping already-processed message ID: <06D43F41-BB9A-4D85-9127-6E51FC50D7FD@yahoo.com>
+2026-05-04 01:40:22,065 - INFO - Skipping already-processed message ID: <957111A2-0F6C-4A9D-9ED6-D3B685869E33@yahoo.com>
+2026-05-04 01:40:22,065 - INFO - Skipping already-processed message ID: <F0E3D771-4716-472B-B375-8FCD1704055A@yahoo.com>
+2026-05-04 01:40:22,065 - INFO - Skipping already-processed message ID: <2AE4154D-4DE9-4188-8CD9-BA433528599C@yahoo.com>
+2026-05-04 01:40:22,065 - INFO - Skipping already-processed message ID: <2BB0CCC4-735B-4A5F-8019-A3B7CCC74D03@yahoo.com>
+2026-05-04 01:40:22,065 - INFO - Skipping already-processed message ID: <797218A6-4A17-4B87-B429-61B02C7183AD@yahoo.com>
+2026-05-04 01:40:22,065 - INFO - Skipping already-processed message ID: <27873746-1170-475E-9C21-7CE95948A671@yahoo.com>
+2026-05-04 01:40:22,066 - INFO - Skipping already-processed message ID: <22764553-180E-42BB-9898-BC855B10E550@yahoo.com>
+2026-05-04 01:40:22,066 - INFO - Skipping already-processed message ID: <C3317370-D2F5-409D-8D13-85A2F90FC6DB@yahoo.com>
+2026-05-04 01:40:22,066 - INFO - Skipping already-processed message ID: <0100019de822820b-cbbf2f75-c1ed-469c-85df-98c1ab947266-000000@email.amazonses.com>
+2026-05-04 01:40:22,066 - INFO - Skipping already-processed message ID: <F5FDBF7F-24C1-41B6-9793-F672681D2827@yahoo.com>
+2026-05-04 01:40:22,066 - INFO - Skipping already-processed message ID: <7E3878D1-7A25-4DB5-AB91-558C9CE7A009@yahoo.com>
+2026-05-04 01:40:22,066 - INFO - ℹ️ No new links found
+2026-05-04 01:50:20,783 - INFO - 🚀 YouTube monitor script started
+2026-05-04 01:50:21,706 - INFO - 📧 Processing 20 emails...
+2026-05-04 01:50:21,706 - INFO - Loading sent links...
+2026-05-04 01:50:21,706 - INFO - Loaded 20 previously sent links, 33 processed message IDs
+2026-05-04 01:50:21,706 - INFO - Skipping already-processed message ID: <7270E473-1FA0-4B18-8D52-ED41A3003519@yahoo.com>
+2026-05-04 01:50:21,707 - INFO - Skipping already-processed message ID: <01E8DA25-0F9E-4F68-8B4E-D61A30251C6D@yahoo.com>
+2026-05-04 01:50:21,707 - INFO - Skipping already-processed message ID: <15AC3D59-8B21-4AAB-B987-5E301D188E95@yahoo.com>
+2026-05-04 01:50:21,707 - INFO - Skipping already-processed message ID: <578A32F1-DDEC-49EA-BC61-B2871A82BE8F@yahoo.com>
+2026-05-04 01:50:21,707 - INFO - Skipping already-processed message ID: <2417795A-852C-4051-B9F9-D79E95DA0578@yahoo.com>
+2026-05-04 01:50:21,707 - INFO - Skipping already-processed message ID: <F65C4CD9-DDD7-4CA3-B54B-CF0DEC0DFDEE@yahoo.com>
+2026-05-04 01:50:21,707 - INFO - Skipping already-processed message ID: <0100019ded4898fa-aae9c82a-cf76-41f8-8c3d-402c31b8a7ed-000000@email.amazonses.com>
+2026-05-04 01:50:21,707 - INFO - Skipping already-processed message ID: <BB136B87-2299-4B89-9A2E-B446E52DFA50@yahoo.com>
+2026-05-04 01:50:21,707 - INFO - Skipping already-processed message ID: <06D43F41-BB9A-4D85-9127-6E51FC50D7FD@yahoo.com>
+2026-05-04 01:50:21,707 - INFO - Skipping already-processed message ID: <957111A2-0F6C-4A9D-9ED6-D3B685869E33@yahoo.com>
+2026-05-04 01:50:21,707 - INFO - Skipping already-processed message ID: <F0E3D771-4716-472B-B375-8FCD1704055A@yahoo.com>
+2026-05-04 01:50:21,707 - INFO - Skipping already-processed message ID: <2AE4154D-4DE9-4188-8CD9-BA433528599C@yahoo.com>
+2026-05-04 01:50:21,707 - INFO - Skipping already-processed message ID: <2BB0CCC4-735B-4A5F-8019-A3B7CCC74D03@yahoo.com>
+2026-05-04 01:50:21,707 - INFO - Skipping already-processed message ID: <797218A6-4A17-4B87-B429-61B02C7183AD@yahoo.com>
+2026-05-04 01:50:21,707 - INFO - Skipping already-processed message ID: <27873746-1170-475E-9C21-7CE95948A671@yahoo.com>
+2026-05-04 01:50:21,707 - INFO - Skipping already-processed message ID: <22764553-180E-42BB-9898-BC855B10E550@yahoo.com>
+2026-05-04 01:50:21,707 - INFO - Skipping already-processed message ID: <C3317370-D2F5-409D-8D13-85A2F90FC6DB@yahoo.com>
+2026-05-04 01:50:21,707 - INFO - Skipping already-processed message ID: <0100019de822820b-cbbf2f75-c1ed-469c-85df-98c1ab947266-000000@email.amazonses.com>
+2026-05-04 01:50:21,707 - INFO - Skipping already-processed message ID: <F5FDBF7F-24C1-41B6-9793-F672681D2827@yahoo.com>
+2026-05-04 01:50:21,707 - INFO - Skipping already-processed message ID: <7E3878D1-7A25-4DB5-AB91-558C9CE7A009@yahoo.com>
+2026-05-04 01:50:21,707 - INFO - ℹ️ No new links found
+2026-05-04 02:00:33,238 - INFO - 🚀 YouTube monitor script started
+2026-05-04 02:00:34,228 - INFO - 📧 Processing 20 emails...
+2026-05-04 02:00:34,228 - INFO - Loading sent links...
+2026-05-04 02:00:34,229 - INFO - Loaded 20 previously sent links, 33 processed message IDs
+2026-05-04 02:00:34,229 - INFO - Skipping already-processed message ID: <7270E473-1FA0-4B18-8D52-ED41A3003519@yahoo.com>
+2026-05-04 02:00:34,229 - INFO - Skipping already-processed message ID: <01E8DA25-0F9E-4F68-8B4E-D61A30251C6D@yahoo.com>
+2026-05-04 02:00:34,229 - INFO - Skipping already-processed message ID: <15AC3D59-8B21-4AAB-B987-5E301D188E95@yahoo.com>
+2026-05-04 02:00:34,229 - INFO - Skipping already-processed message ID: <578A32F1-DDEC-49EA-BC61-B2871A82BE8F@yahoo.com>
+2026-05-04 02:00:34,229 - INFO - Skipping already-processed message ID: <2417795A-852C-4051-B9F9-D79E95DA0578@yahoo.com>
+2026-05-04 02:00:34,229 - INFO - Skipping already-processed message ID: <F65C4CD9-DDD7-4CA3-B54B-CF0DEC0DFDEE@yahoo.com>
+2026-05-04 02:00:34,229 - INFO - Skipping already-processed message ID: <0100019ded4898fa-aae9c82a-cf76-41f8-8c3d-402c31b8a7ed-000000@email.amazonses.com>
+2026-05-04 02:00:34,229 - INFO - Skipping already-processed message ID: <BB136B87-2299-4B89-9A2E-B446E52DFA50@yahoo.com>
+2026-05-04 02:00:34,229 - INFO - Skipping already-processed message ID: <06D43F41-BB9A-4D85-9127-6E51FC50D7FD@yahoo.com>
+2026-05-04 02:00:34,229 - INFO - Skipping already-processed message ID: <957111A2-0F6C-4A9D-9ED6-D3B685869E33@yahoo.com>
+2026-05-04 02:00:34,229 - INFO - Skipping already-processed message ID: <F0E3D771-4716-472B-B375-8FCD1704055A@yahoo.com>
+2026-05-04 02:00:34,229 - INFO - Skipping already-processed message ID: <2AE4154D-4DE9-4188-8CD9-BA433528599C@yahoo.com>
+2026-05-04 02:00:34,229 - INFO - Skipping already-processed message ID: <2BB0CCC4-735B-4A5F-8019-A3B7CCC74D03@yahoo.com>
+2026-05-04 02:00:34,229 - INFO - Skipping already-processed message ID: <797218A6-4A17-4B87-B429-61B02C7183AD@yahoo.com>
+2026-05-04 02:00:34,229 - INFO - Skipping already-processed message ID: <27873746-1170-475E-9C21-7CE95948A671@yahoo.com>
+2026-05-04 02:00:34,229 - INFO - Skipping already-processed message ID: <22764553-180E-42BB-9898-BC855B10E550@yahoo.com>
+2026-05-04 02:00:34,230 - INFO - Skipping already-processed message ID: <C3317370-D2F5-409D-8D13-85A2F90FC6DB@yahoo.com>
+2026-05-04 02:00:34,230 - INFO - Skipping already-processed message ID: <0100019de822820b-cbbf2f75-c1ed-469c-85df-98c1ab947266-000000@email.amazonses.com>
+2026-05-04 02:00:34,230 - INFO - Skipping already-processed message ID: <F5FDBF7F-24C1-41B6-9793-F672681D2827@yahoo.com>
+2026-05-04 02:00:34,230 - INFO - Skipping already-processed message ID: <7E3878D1-7A25-4DB5-AB91-558C9CE7A009@yahoo.com>
+2026-05-04 02:00:34,230 - INFO - ℹ️ No new links found
+2026-05-04 02:20:14,080 - INFO - 🚀 YouTube monitor script started
+2026-05-04 02:20:15,244 - INFO - 📧 Processing 20 emails...
+2026-05-04 02:20:15,244 - INFO - Loading sent links...
+2026-05-04 02:20:15,245 - INFO - Loaded 20 previously sent links, 33 processed message IDs
+2026-05-04 02:20:15,245 - INFO - Skipping already-processed message ID: <7270E473-1FA0-4B18-8D52-ED41A3003519@yahoo.com>
+2026-05-04 02:20:15,245 - INFO - Skipping already-processed message ID: <01E8DA25-0F9E-4F68-8B4E-D61A30251C6D@yahoo.com>
+2026-05-04 02:20:15,245 - INFO - Skipping already-processed message ID: <15AC3D59-8B21-4AAB-B987-5E301D188E95@yahoo.com>
+2026-05-04 02:20:15,245 - INFO - Skipping already-processed message ID: <578A32F1-DDEC-49EA-BC61-B2871A82BE8F@yahoo.com>
+2026-05-04 02:20:15,245 - INFO - Skipping already-processed message ID: <2417795A-852C-4051-B9F9-D79E95DA0578@yahoo.com>
+2026-05-04 02:20:15,245 - INFO - Skipping already-processed message ID: <F65C4CD9-DDD7-4CA3-B54B-CF0DEC0DFDEE@yahoo.com>
+2026-05-04 02:20:15,245 - INFO - Skipping already-processed message ID: <0100019ded4898fa-aae9c82a-cf76-41f8-8c3d-402c31b8a7ed-000000@email.amazonses.com>
+2026-05-04 02:20:15,245 - INFO - Skipping already-processed message ID: <BB136B87-2299-4B89-9A2E-B446E52DFA50@yahoo.com>
+2026-05-04 02:20:15,245 - INFO - Skipping already-processed message ID: <06D43F41-BB9A-4D85-9127-6E51FC50D7FD@yahoo.com>
+2026-05-04 02:20:15,245 - INFO - Skipping already-processed message ID: <957111A2-0F6C-4A9D-9ED6-D3B685869E33@yahoo.com>
+2026-05-04 02:20:15,245 - INFO - Skipping already-processed message ID: <F0E3D771-4716-472B-B375-8FCD1704055A@yahoo.com>
+2026-05-04 02:20:15,245 - INFO - Skipping already-processed message ID: <2AE4154D-4DE9-4188-8CD9-BA433528599C@yahoo.com>
+2026-05-04 02:20:15,245 - INFO - Skipping already-processed message ID: <2BB0CCC4-735B-4A5F-8019-A3B7CCC74D03@yahoo.com>
+2026-05-04 02:20:15,245 - INFO - Skipping already-processed message ID: <797218A6-4A17-4B87-B429-61B02C7183AD@yahoo.com>
+2026-05-04 02:20:15,245 - INFO - Skipping already-processed message ID: <27873746-1170-475E-9C21-7CE95948A671@yahoo.com>
+2026-05-04 02:20:15,245 - INFO - Skipping already-processed message ID: <22764553-180E-42BB-9898-BC855B10E550@yahoo.com>
+2026-05-04 02:20:15,245 - INFO - Skipping already-processed message ID: <C3317370-D2F5-409D-8D13-85A2F90FC6DB@yahoo.com>
+2026-05-04 02:20:15,245 - INFO - Skipping already-processed message ID: <0100019de822820b-cbbf2f75-c1ed-469c-85df-98c1ab947266-000000@email.amazonses.com>
+2026-05-04 02:20:15,245 - INFO - Skipping already-processed message ID: <F5FDBF7F-24C1-41B6-9793-F672681D2827@yahoo.com>
+2026-05-04 02:20:15,245 - INFO - Skipping already-processed message ID: <7E3878D1-7A25-4DB5-AB91-558C9CE7A009@yahoo.com>
+2026-05-04 02:20:15,246 - INFO - ℹ️ No new links found
+2026-05-04 02:30:15,002 - INFO - 🚀 YouTube monitor script started
+2026-05-04 02:30:16,091 - INFO - 📧 Processing 20 emails...
+2026-05-04 02:30:16,091 - INFO - Loading sent links...
+2026-05-04 02:30:16,091 - INFO - Loaded 20 previously sent links, 33 processed message IDs
+2026-05-04 02:30:16,091 - INFO - Skipping already-processed message ID: <7270E473-1FA0-4B18-8D52-ED41A3003519@yahoo.com>
+2026-05-04 02:30:16,091 - INFO - Skipping already-processed message ID: <01E8DA25-0F9E-4F68-8B4E-D61A30251C6D@yahoo.com>
+2026-05-04 02:30:16,091 - INFO - Skipping already-processed message ID: <15AC3D59-8B21-4AAB-B987-5E301D188E95@yahoo.com>
+2026-05-04 02:30:16,091 - INFO - Skipping already-processed message ID: <578A32F1-DDEC-49EA-BC61-B2871A82BE8F@yahoo.com>
+2026-05-04 02:30:16,092 - INFO - Skipping already-processed message ID: <2417795A-852C-4051-B9F9-D79E95DA0578@yahoo.com>
+2026-05-04 02:30:16,092 - INFO - Skipping already-processed message ID: <F65C4CD9-DDD7-4CA3-B54B-CF0DEC0DFDEE@yahoo.com>
+2026-05-04 02:30:16,092 - INFO - Skipping already-processed message ID: <0100019ded4898fa-aae9c82a-cf76-41f8-8c3d-402c31b8a7ed-000000@email.amazonses.com>
+2026-05-04 02:30:16,092 - INFO - Skipping already-processed message ID: <BB136B87-2299-4B89-9A2E-B446E52DFA50@yahoo.com>
+2026-05-04 02:30:16,092 - INFO - Skipping already-processed message ID: <06D43F41-BB9A-4D85-9127-6E51FC50D7FD@yahoo.com>
+2026-05-04 02:30:16,092 - INFO - Skipping already-processed message ID: <957111A2-0F6C-4A9D-9ED6-D3B685869E33@yahoo.com>
+2026-05-04 02:30:16,092 - INFO - Skipping already-processed message ID: <F0E3D771-4716-472B-B375-8FCD1704055A@yahoo.com>
+2026-05-04 02:30:16,092 - INFO - Skipping already-processed message ID: <2AE4154D-4DE9-4188-8CD9-BA433528599C@yahoo.com>
+2026-05-04 02:30:16,092 - INFO - Skipping already-processed message ID: <2BB0CCC4-735B-4A5F-8019-A3B7CCC74D03@yahoo.com>
+2026-05-04 02:30:16,092 - INFO - Skipping already-processed message ID: <797218A6-4A17-4B87-B429-61B02C7183AD@yahoo.com>
+2026-05-04 02:30:16,092 - INFO - Skipping already-processed message ID: <27873746-1170-475E-9C21-7CE95948A671@yahoo.com>
+2026-05-04 02:30:16,092 - INFO - Skipping already-processed message ID: <22764553-180E-42BB-9898-BC855B10E550@yahoo.com>
+2026-05-04 02:30:16,092 - INFO - Skipping already-processed message ID: <C3317370-D2F5-409D-8D13-85A2F90FC6DB@yahoo.com>
+2026-05-04 02:30:16,092 - INFO - Skipping already-processed message ID: <0100019de822820b-cbbf2f75-c1ed-469c-85df-98c1ab947266-000000@email.amazonses.com>
+2026-05-04 02:30:16,092 - INFO - Skipping already-processed message ID: <F5FDBF7F-24C1-41B6-9793-F672681D2827@yahoo.com>
+2026-05-04 02:30:16,092 - INFO - Skipping already-processed message ID: <7E3878D1-7A25-4DB5-AB91-558C9CE7A009@yahoo.com>
+2026-05-04 02:30:16,092 - INFO - ℹ️ No new links found
+2026-05-04 02:40:10,685 - INFO - 🚀 YouTube monitor script started
+2026-05-04 02:40:11,642 - INFO - 📧 Processing 20 emails...
+2026-05-04 02:40:11,642 - INFO - Loading sent links...
+2026-05-04 02:40:11,642 - INFO - Loaded 20 previously sent links, 33 processed message IDs
+2026-05-04 02:40:11,642 - INFO - Skipping already-processed message ID: <7270E473-1FA0-4B18-8D52-ED41A3003519@yahoo.com>
+2026-05-04 02:40:11,642 - INFO - Skipping already-processed message ID: <01E8DA25-0F9E-4F68-8B4E-D61A30251C6D@yahoo.com>
+2026-05-04 02:40:11,642 - INFO - Skipping already-processed message ID: <15AC3D59-8B21-4AAB-B987-5E301D188E95@yahoo.com>
+2026-05-04 02:40:11,642 - INFO - Skipping already-processed message ID: <578A32F1-DDEC-49EA-BC61-B2871A82BE8F@yahoo.com>
+2026-05-04 02:40:11,642 - INFO - Skipping already-processed message ID: <2417795A-852C-4051-B9F9-D79E95DA0578@yahoo.com>
+2026-05-04 02:40:11,642 - INFO - Skipping already-processed message ID: <F65C4CD9-DDD7-4CA3-B54B-CF0DEC0DFDEE@yahoo.com>
+2026-05-04 02:40:11,642 - INFO - Skipping already-processed message ID: <0100019ded4898fa-aae9c82a-cf76-41f8-8c3d-402c31b8a7ed-000000@email.amazonses.com>
+2026-05-04 02:40:11,643 - INFO - Skipping already-processed message ID: <BB136B87-2299-4B89-9A2E-B446E52DFA50@yahoo.com>
+2026-05-04 02:40:11,643 - INFO - Skipping already-processed message ID: <06D43F41-BB9A-4D85-9127-6E51FC50D7FD@yahoo.com>
+2026-05-04 02:40:11,643 - INFO - Skipping already-processed message ID: <957111A2-0F6C-4A9D-9ED6-D3B685869E33@yahoo.com>
+2026-05-04 02:40:11,643 - INFO - Skipping already-processed message ID: <F0E3D771-4716-472B-B375-8FCD1704055A@yahoo.com>
+2026-05-04 02:40:11,643 - INFO - Skipping already-processed message ID: <2AE4154D-4DE9-4188-8CD9-BA433528599C@yahoo.com>
+2026-05-04 02:40:11,643 - INFO - Skipping already-processed message ID: <2BB0CCC4-735B-4A5F-8019-A3B7CCC74D03@yahoo.com>
+2026-05-04 02:40:11,643 - INFO - Skipping already-processed message ID: <797218A6-4A17-4B87-B429-61B02C7183AD@yahoo.com>
+2026-05-04 02:40:11,643 - INFO - Skipping already-processed message ID: <27873746-1170-475E-9C21-7CE95948A671@yahoo.com>
+2026-05-04 02:40:11,643 - INFO - Skipping already-processed message ID: <22764553-180E-42BB-9898-BC855B10E550@yahoo.com>
+2026-05-04 02:40:11,643 - INFO - Skipping already-processed message ID: <C3317370-D2F5-409D-8D13-85A2F90FC6DB@yahoo.com>
+2026-05-04 02:40:11,643 - INFO - Skipping already-processed message ID: <0100019de822820b-cbbf2f75-c1ed-469c-85df-98c1ab947266-000000@email.amazonses.com>
+2026-05-04 02:40:11,643 - INFO - Skipping already-processed message ID: <F5FDBF7F-24C1-41B6-9793-F672681D2827@yahoo.com>
+2026-05-04 02:40:11,643 - INFO - Skipping already-processed message ID: <7E3878D1-7A25-4DB5-AB91-558C9CE7A009@yahoo.com>
+2026-05-04 02:40:11,643 - INFO - ℹ️ No new links found
+2026-05-04 02:50:17,433 - INFO - 🚀 YouTube monitor script started
+2026-05-04 02:50:18,561 - INFO - 📧 Processing 20 emails...
+2026-05-04 02:50:18,562 - INFO - Loading sent links...
+2026-05-04 02:50:18,562 - INFO - Loaded 20 previously sent links, 33 processed message IDs
+2026-05-04 02:50:18,562 - INFO - Skipping already-processed message ID: <7270E473-1FA0-4B18-8D52-ED41A3003519@yahoo.com>
+2026-05-04 02:50:18,562 - INFO - Skipping already-processed message ID: <01E8DA25-0F9E-4F68-8B4E-D61A30251C6D@yahoo.com>
+2026-05-04 02:50:18,562 - INFO - Skipping already-processed message ID: <15AC3D59-8B21-4AAB-B987-5E301D188E95@yahoo.com>
+2026-05-04 02:50:18,562 - INFO - Skipping already-processed message ID: <578A32F1-DDEC-49EA-BC61-B2871A82BE8F@yahoo.com>
+2026-05-04 02:50:18,562 - INFO - Skipping already-processed message ID: <2417795A-852C-4051-B9F9-D79E95DA0578@yahoo.com>
+2026-05-04 02:50:18,562 - INFO - Skipping already-processed message ID: <F65C4CD9-DDD7-4CA3-B54B-CF0DEC0DFDEE@yahoo.com>
+2026-05-04 02:50:18,562 - INFO - Skipping already-processed message ID: <0100019ded4898fa-aae9c82a-cf76-41f8-8c3d-402c31b8a7ed-000000@email.amazonses.com>
+2026-05-04 02:50:18,562 - INFO - Skipping already-processed message ID: <BB136B87-2299-4B89-9A2E-B446E52DFA50@yahoo.com>
+2026-05-04 02:50:18,563 - INFO - Skipping already-processed message ID: <06D43F41-BB9A-4D85-9127-6E51FC50D7FD@yahoo.com>
+2026-05-04 02:50:18,563 - INFO - Skipping already-processed message ID: <957111A2-0F6C-4A9D-9ED6-D3B685869E33@yahoo.com>
+2026-05-04 02:50:18,563 - INFO - Skipping already-processed message ID: <F0E3D771-4716-472B-B375-8FCD1704055A@yahoo.com>
+2026-05-04 02:50:18,563 - INFO - Skipping already-processed message ID: <2AE4154D-4DE9-4188-8CD9-BA433528599C@yahoo.com>
+2026-05-04 02:50:18,563 - INFO - Skipping already-processed message ID: <2BB0CCC4-735B-4A5F-8019-A3B7CCC74D03@yahoo.com>
+2026-05-04 02:50:18,563 - INFO - Skipping already-processed message ID: <797218A6-4A17-4B87-B429-61B02C7183AD@yahoo.com>
+2026-05-04 02:50:18,563 - INFO - Skipping already-processed message ID: <27873746-1170-475E-9C21-7CE95948A671@yahoo.com>
+2026-05-04 02:50:18,563 - INFO - Skipping already-processed message ID: <22764553-180E-42BB-9898-BC855B10E550@yahoo.com>
+2026-05-04 02:50:18,563 - INFO - Skipping already-processed message ID: <C3317370-D2F5-409D-8D13-85A2F90FC6DB@yahoo.com>
+2026-05-04 02:50:18,563 - INFO - Skipping already-processed message ID: <0100019de822820b-cbbf2f75-c1ed-469c-85df-98c1ab947266-000000@email.amazonses.com>
+2026-05-04 02:50:18,563 - INFO - Skipping already-processed message ID: <F5FDBF7F-24C1-41B6-9793-F672681D2827@yahoo.com>
+2026-05-04 02:50:18,563 - INFO - Skipping already-processed message ID: <7E3878D1-7A25-4DB5-AB91-558C9CE7A009@yahoo.com>
+2026-05-04 02:50:18,563 - INFO - ℹ️ No new links found
+2026-05-04 03:00:13,744 - INFO - 🚀 YouTube monitor script started
+2026-05-04 03:00:14,710 - INFO - 📧 Processing 20 emails...
+2026-05-04 03:00:14,711 - INFO - Loading sent links...
+2026-05-04 03:00:14,711 - INFO - Loaded 20 previously sent links, 33 processed message IDs
+2026-05-04 03:00:14,711 - INFO - Skipping already-processed message ID: <7270E473-1FA0-4B18-8D52-ED41A3003519@yahoo.com>
+2026-05-04 03:00:14,711 - INFO - Skipping already-processed message ID: <01E8DA25-0F9E-4F68-8B4E-D61A30251C6D@yahoo.com>
+2026-05-04 03:00:14,711 - INFO - Skipping already-processed message ID: <15AC3D59-8B21-4AAB-B987-5E301D188E95@yahoo.com>
+2026-05-04 03:00:14,711 - INFO - Skipping already-processed message ID: <578A32F1-DDEC-49EA-BC61-B2871A82BE8F@yahoo.com>
+2026-05-04 03:00:14,711 - INFO - Skipping already-processed message ID: <2417795A-852C-4051-B9F9-D79E95DA0578@yahoo.com>
+2026-05-04 03:00:14,711 - INFO - Skipping already-processed message ID: <F65C4CD9-DDD7-4CA3-B54B-CF0DEC0DFDEE@yahoo.com>
+2026-05-04 03:00:14,711 - INFO - Skipping already-processed message ID: <0100019ded4898fa-aae9c82a-cf76-41f8-8c3d-402c31b8a7ed-000000@email.amazonses.com>
+2026-05-04 03:00:14,711 - INFO - Skipping already-processed message ID: <BB136B87-2299-4B89-9A2E-B446E52DFA50@yahoo.com>
+2026-05-04 03:00:14,712 - INFO - Skipping already-processed message ID: <06D43F41-BB9A-4D85-9127-6E51FC50D7FD@yahoo.com>
+2026-05-04 03:00:14,712 - INFO - Skipping already-processed message ID: <957111A2-0F6C-4A9D-9ED6-D3B685869E33@yahoo.com>
+2026-05-04 03:00:14,712 - INFO - Skipping already-processed message ID: <F0E3D771-4716-472B-B375-8FCD1704055A@yahoo.com>
+2026-05-04 03:00:14,712 - INFO - Skipping already-processed message ID: <2AE4154D-4DE9-4188-8CD9-BA433528599C@yahoo.com>
+2026-05-04 03:00:14,712 - INFO - Skipping already-processed message ID: <2BB0CCC4-735B-4A5F-8019-A3B7CCC74D03@yahoo.com>
+2026-05-04 03:00:14,712 - INFO - Skipping already-processed message ID: <797218A6-4A17-4B87-B429-61B02C7183AD@yahoo.com>
+2026-05-04 03:00:14,712 - INFO - Skipping already-processed message ID: <27873746-1170-475E-9C21-7CE95948A671@yahoo.com>
+2026-05-04 03:00:14,712 - INFO - Skipping already-processed message ID: <22764553-180E-42BB-9898-BC855B10E550@yahoo.com>
+2026-05-04 03:00:14,712 - INFO - Skipping already-processed message ID: <C3317370-D2F5-409D-8D13-85A2F90FC6DB@yahoo.com>
+2026-05-04 03:00:14,712 - INFO - Skipping already-processed message ID: <0100019de822820b-cbbf2f75-c1ed-469c-85df-98c1ab947266-000000@email.amazonses.com>
+2026-05-04 03:00:14,712 - INFO - Skipping already-processed message ID: <F5FDBF7F-24C1-41B6-9793-F672681D2827@yahoo.com>
+2026-05-04 03:00:14,712 - INFO - Skipping already-processed message ID: <7E3878D1-7A25-4DB5-AB91-558C9CE7A009@yahoo.com>
+2026-05-04 03:00:14,712 - INFO - ℹ️ No new links found
