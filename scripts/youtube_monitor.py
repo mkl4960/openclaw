@@ -124,13 +124,13 @@ def process_message(msg):
 
     # Build a searchable content string
     parts = [str(msg.subject)]
-    # Prefer extracted plain text if available, otherwise raw text or html
-    if hasattr(msg, 'extracted_text') and msg.extracted_text:
-        parts.append(str(msg.extracted_text))
-    elif hasattr(msg, 'text') and msg.text:
+    # Prefer full text body over extracted text (which may only contain headers)
+    if hasattr(msg, 'text') and msg.text:
         parts.append(str(msg.text))
     elif hasattr(msg, 'html') and msg.html:
         parts.append(str(msg.html))
+    elif hasattr(msg, 'extracted_text') and msg.extracted_text:
+        parts.append(str(msg.extracted_text))
     # Include preview (short snippet) if present
     if hasattr(msg, 'preview') and msg.preview:
         parts.append(str(msg.preview))
