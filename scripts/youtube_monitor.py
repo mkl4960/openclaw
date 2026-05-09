@@ -65,7 +65,7 @@ logger.handlers.clear()
 logger.setLevel(logging.INFO)
 formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
 # File handler for persistent logs
-file_handler = logging.FileHandler(DATA_DIR.parent / 'logs' / 'youtube_monitor.log')
+file_handler = logging.FileHandler(DATA_DIR / 'logs' / 'youtube_monitor.log')
 file_handler.setFormatter(formatter)
 logger.addHandler(file_handler)
 # Stream handler for stderr, set to WARNING to avoid INFO messages being forwarded
