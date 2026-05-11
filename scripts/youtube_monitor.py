@@ -22,11 +22,16 @@ from pathlib import Path
 os.environ.setdefault('PYTHONPATH', '/home/mlau/.nvm/versions/node/v24.14.1/lib/node_modules/openclaw')
 
 # Fixed imports with fallbacks
+import os
 client = None
 def get_agentmail():
     try:
         from agentmail import AgentMail
-        return AgentMail()
+        api_key = os.getenv('AGENTMAIL_API_KEY')
+        if not api_key:
+            logger.error('AGENTMAIL_API_KEY environment variable not set')
+            return None
+        return AgentMail(api_key=api_key)
     except ImportError:
         return None
 
