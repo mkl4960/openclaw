@@ -21,6 +21,12 @@ from pathlib import Path
 # Setup
 os.environ.setdefault('PYTHONPATH', '/home/mlau/.nvm/versions/node/v24.14.1/lib/node_modules/openclaw')
 
+# Load environment variables from .env file (needed for cron jobs)
+from dotenv import load_dotenv
+_env_path = Path.home() / '.openclaw' / '.env'
+if _env_path.exists():
+    load_dotenv(dotenv_path=str(_env_path))
+
 # Fixed imports with fallbacks
 import os
 client = None
