@@ -46,7 +46,7 @@ def send_discord_message(content):
         # Use OpenClaw CLI to send message (more reliable than tools module)
         result = subprocess.run([
             '/home/mlau/.nvm/versions/node/v24.14.1/bin/openclaw', 'message', 'send',
-            '--target', '1484402794055336128',
+            '--target', 'channel:1484402794055336128',
             '--channel', 'discord',
             '--message', content
         ], capture_output=True, text=True, check=True)
