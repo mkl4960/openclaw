@@ -18,6 +18,12 @@ root_logger.handlers.clear()
 root_logger.setLevel(logging.WARNING)
 from pathlib import Path
 
+# Load environment variables from .env file (needed for cron jobs)
+from dotenv import load_dotenv
+_env_path = Path.home() / '.openclaw' / '.env'
+if _env_path.exists():
+    load_dotenv(dotenv_path=str(_env_path))
+
 # Setup
 os.environ.setdefault('PYTHONPATH', '/home/mlau/.nvm/versions/node/v24.14.1/lib/node_modules/openclaw')
 
@@ -167,7 +173,7 @@ def main():
             return
             
         response = client.inboxes.messages.list(
-            inbox_id=AGENTMAIL_EMAIL,
+            inbox_id='laumiex@agentmail.to',
             limit=20
         )
         
@@ -194,7 +200,7 @@ def main():
                 logger.info(f"Skipping already-processed message ID: {msg_id}")
                 continue
             logger.info(f"Processing message ID: {msg_id}")
-            msg = client.inboxes.messages.get(AGENTMAIL_EMAIL, msg.message_id)
+            msg = client.inboxes.messages.get('e34e814f-c99e-4eb9-818c-af78e4b0f3fc', msg.message_id)
             logger.debug(f"Full msg: {vars(msg) if hasattr(msg, '__dict__') else msg}")
             links = process_message(msg)
             processed_ids.add(msg_id)
