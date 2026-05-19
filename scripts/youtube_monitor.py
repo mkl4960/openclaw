@@ -27,12 +27,6 @@ if _env_path.exists():
 # Setup
 os.environ.setdefault('PYTHONPATH', '/home/mlau/.nvm/versions/node/v24.14.1/lib/node_modules/openclaw')
 
-# Load environment variables from .env file (needed for cron jobs)
-from dotenv import load_dotenv
-_env_path = Path.home() / '.openclaw' / '.env'
-if _env_path.exists():
-    load_dotenv(dotenv_path=str(_env_path))
-
 # Fixed imports with fallbacks
 import os
 client = None
@@ -172,8 +166,10 @@ def main():
             logger.error("AgentMail unavailable")
             return
             
+                # Resolve inbox ID directly using the email address (AgentMail SDK accepts the email as the inbox identifier)
+        inbox_id = AGENTMAIL_EMAIL
         response = client.inboxes.messages.list(
-            inbox_id='laumiex@agentmail.to',
+            inbox_id=inbox_id,
             limit=20
         )
         
@@ -200,7 +196,7 @@ def main():
                 logger.info(f"Skipping already-processed message ID: {msg_id}")
                 continue
             logger.info(f"Processing message ID: {msg_id}")
-            msg = client.inboxes.messages.get('e34e814f-c99e-4eb9-818c-af78e4b0f3fc', msg.message_id)
+            msg = client.inboxes.messages.get(inbox_id, msg.message_id)
             logger.debug(f"Full msg: {vars(msg) if hasattr(msg, '__dict__') else msg}")
             links = process_message(msg)
             processed_ids.add(msg_id)
