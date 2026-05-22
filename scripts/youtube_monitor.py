@@ -165,17 +165,32 @@ def main():
         if not client:
             logger.error("AgentMail unavailable")
             return
-            
-                # Resolve inbox ID directly using the email address (AgentMail SDK accepts the email as the inbox identifier)
-        inbox_id = AGENTMAIL_EMAIL
+                
+        # Get inbox ID by listing inboxes and matching email
+        inbox_response = client.inboxes.list()
+        inbox_id = None
+        logger.info(f"Found {len(inbox_response.inboxes)} inboxes")
+        for inbox in inbox_response.inboxes:
+            logger.info(f"Inbox email: {getattr(inbox, 'email', 'NO_EMAIL_ATTR')}, id: {getattr(inbox, 'id', 'NO_ID_ATTR')}, type: {type(inbox)}")
+            if hasattr(inbox, 'email') and inbox.email == AGENTMAIL_EMAIL:
+                if hasattr(inbox, 'id'):
+                    inbox_id = inbox.id
+                    break
+                else:
+                    logger.warning(f"Inbox with matching email {AGENTMAIL_EMAIL} has no id attribute")
+        if not inbox_id:
+            # fallback to email as identifier
+            inbox_id = AGENTMAIL_EMAIL
+            logger.warning(f"Inbox not found by email, using email as inbox_id: {inbox_id}")
+        
         response = client.inboxes.messages.list(
             inbox_id=inbox_id,
             limit=20
         )
-        
+
         messages = response.messages or []
         logger.info(f"📧 Processing {len(messages)} emails...")
-        
+
         sent_links = load_sent_links()
         processed_ids = load_processed_ids()
         logger.info(f"Loaded {len(sent_links)} previously sent links, {len(processed_ids)} processed message IDs")
@@ -217,15 +232,15 @@ def main():
                 else:
                     # Already announced; keep quiet to avoid false positives in cron summaries
                     logger.debug(f"Already sent link ID: {link}")
-        
+
         if new_count > 0:
             save_sent_links(sent_links)
             logger.info(f"✅ Sent {new_count} link(s)")
         else:
-            logger.info("ℹ️ No new links found")
+            logger.info("i️ No new links found")
         if processed_changed:
             save_processed_ids(processed_ids)
-            
+
     except Exception as e:
         logger.error(f"💥 Error: {e}")
 
