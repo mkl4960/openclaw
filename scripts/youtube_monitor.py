@@ -173,11 +173,11 @@ def main():
         for inbox in inbox_response.inboxes:
             logger.info(f"Inbox email: {getattr(inbox, 'email', 'NO_EMAIL_ATTR')}, id: {getattr(inbox, 'id', 'NO_ID_ATTR')}, type: {type(inbox)}")
             if hasattr(inbox, 'email') and inbox.email == AGENTMAIL_EMAIL:
-                if hasattr(inbox, 'id'):
-                    inbox_id = inbox.id
+                if hasattr(inbox, 'inbox_id'):
+                    inbox_id = inbox.inbox_id
                     break
                 else:
-                    logger.warning(f"Inbox with matching email {AGENTMAIL_EMAIL} has no id attribute")
+                    logger.warning(f"Inbox with matching email {AGENTMAIL_EMAIL} has no inbox_id attribute")
         if not inbox_id:
             # fallback to email as identifier
             inbox_id = AGENTMAIL_EMAIL
