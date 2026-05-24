@@ -20,7 +20,7 @@ from pathlib import Path
 
 # Load environment variables from .env file (needed for cron jobs)
 from dotenv import load_dotenv
-_env_path = Path.home() / '.openclaw' / '.env'
+_env_path = Path('/home/mlau/.openclaw/.env')
 if _env_path.exists():
     load_dotenv(dotenv_path=str(_env_path))
 
