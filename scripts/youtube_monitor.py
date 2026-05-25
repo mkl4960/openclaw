@@ -37,6 +37,8 @@ def get_agentmail():
         if not api_key:
             logger.error('AGENTMAIL_API_KEY environment variable not set')
             return None
+        api_key = api_key.strip()  # Ensure no surrounding whitespace
+        logger.debug(f'AGENTMAIL_API_KEY loaded: {api_key[:10]}...')
         return AgentMail(api_key=api_key)
     except ImportError:
         return None
@@ -62,7 +64,7 @@ def send_discord_message(content):
 # Configuration
 AGENTMAIL_EMAIL = "laumiex@agentmail.to"
 SEARCH_SUBJECT = "新澤西州宣恩堂中文主日崇拜連結"
-YOUTUBE_REGEX = r'https://(?:youtube\.com/watch\?v=|youtu\.be/|youtube\.com/live/)([a-zA-Z0-9_-]+)'
+YOUTUBE_REGEX = r'(https?://(?:www\.)?(?:youtube\.com/watch\?v=|youtu\.be/|youtube\.com/live/)[\w-]+)'
 
 DATA_DIR = Path.home() / '.openclaw' / 'workspace' / 'data'
 # Ensure data and logs directories exist
@@ -89,7 +91,7 @@ logger.propagate = False
 logger = logging.getLogger(__name__)
 
 def load_sent_links():
-    """Load previously sent YouTube link IDs from JSON file."""
+    """Load previously sent YouTube link URLs from JSON file."""
     logger.info("Loading sent links...")
     sent_file = DATA_DIR / 'sent_youtube_links.json'
     if sent_file.exists():
@@ -124,6 +126,7 @@ def save_processed_ids(processed):
         logger.error(f"Save processed IDs failed: {e}")
 
 def extract_links(text):
+    # Return full URLs matching the regex
     return re.findall(YOUTUBE_REGEX, text)
 
 def process_message(msg):
@@ -219,9 +222,9 @@ def main():
 
             for link in links:
                 if link not in sent_links:
-                    # This is a genuinely new link we haven't announced yet
-                    logger.info(f"New YouTube link ID: {link}")
-                    message = f"🕊️ Live Stream: https://youtube.com/live/{link}"
+                    # New YouTube link URL not yet announced
+                    logger.info(f"New YouTube link URL: {link}")
+                    message = f"🕊️ YouTube Link: {link}"
                     logger.info(f"➡️ {message}")
                     if send_discord_message(message):
                         sent_links.add(link)
@@ -230,8 +233,7 @@ def main():
                     else:
                         logger.error(f"❌ Failed to send Discord notification for link: {link}")
                 else:
-                    # Already announced; keep quiet to avoid false positives in cron summaries
-                    logger.debug(f"Already sent link ID: {link}")
+                    logger.debug(f"Already sent link URL: {link}")
 
         if new_count > 0:
             save_sent_links(sent_links)
