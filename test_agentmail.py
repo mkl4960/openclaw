@@ -1,20 +1,45 @@
+#!/usr/bin/env python3
+"""
+Simple test script to check agentmail module and API key
+"""
 import os
-from agentmail import AgentMail
+from dotenv import load_dotenv
+from pathlib import Path
 
+# Load environment variables from .env file
+_env_path = Path('/home/mlau/.openclaw/.env')
+if _env_path.exists():
+    load_dotenv(dotenv_path=str(_env_path))
+    print("✅ .env file loaded successfully")
+else:
+    print("❌ .env file not found")
+
+# Check if API key is set
 api_key = os.getenv('AGENTMAIL_API_KEY')
-if not api_key:
-    print("AGENTMAIL_API_KEY not set")
-    exit(1)
+if api_key:
+    print(f"✅ AGENTMAIL_API_KEY found: {api_key[:20]}...")
+else:
+    print("❌ AGENTMAIL_API_KEY not found")
 
-client = AgentMail(api_key=api_key)
-print("Client created")
-
+# Try to import agentmail
 try:
-    inboxes = client.inboxes.list()
-    print(f"Inboxes response: {inboxes}")
-    print(f"Number of inboxes: {len(inboxes.inboxes)}")
-    for inbox in inboxes.inboxes:
-        print(f"Inbox: {inbox.id} - {inbox.email}")
+    from agentmail import AgentMail
+    print("✅ agentmail module imported successfully")
+    
+    # Try to create client
+    client = AgentMail(api_key=api_key)
+    print("✅ AgentMail client created successfully")
+    
+    # Try to list inboxes
+    try:
+        response = client.inboxes.list()
+        print(f"✅ Listed inboxes successfully: {len(response.inboxes)} inboxes found")
+        for inbox in response.inboxes:
+            print(f"  - {getattr(inbox, 'email', 'NO_EMAIL')}: {getattr(inbox, 'id', 'NO_ID')}")
+    except Exception as e:
+        print(f"❌ Failed to list inboxes: {e}")
+        
+except ImportError as e:
+    print(f"❌ Failed to import agentmail: {e}")
 except Exception as e:
-    print(f"Error: {e}")
-    print(f"Error type: {type(e)}")
+    print(f"❌ Failed to create AgentMail client: {e}")
