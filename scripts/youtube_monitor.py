@@ -39,8 +39,18 @@ def get_agentmail():
             return None
         api_key = api_key.strip()  # Ensure no surrounding whitespace
         logger.debug(f'AGENTMAIL_API_KEY loaded: {api_key[:10]}...')
-        return AgentMail(api_key=api_key)
+        client = AgentMail(api_key=api_key)
+        # Test authentication
+        try:
+            # Lightweight call to verify auth
+            client.inboxes.list(limit=1)
+            logger.info('AgentMail authentication successful')
+        except Exception as auth_err:
+            logger.error(f'AgentMail authentication failed: {auth_err}')
+            return None
+        return client
     except ImportError:
+        logger.error('agentmail package not installed')
         return None
 
 def send_discord_message(content):
@@ -163,10 +173,23 @@ def process_message(msg):
 
 def main():
     logger.info("🚀 YouTube monitor script started")
+    # Ensure required environment variables are set
+    required_env_vars = ['DISCORD_BOT_TOKEN', 'AGENTMAIL_API_KEY']
+    missing_vars = [var for var in required_env_vars if not os.getenv(var)]
+    if missing_vars:
+        logger.error(f"Missing required environment variables: {', '.join(missing_vars)}")
+        return
+
     try:
         client = get_agentmail()
         if not client:
             logger.error("AgentMail unavailable")
+            return
+        # Verify authentication by attempting a lightweight request
+        try:
+            client.inboxes.list(limit=1)
+        except Exception as e:
+            logger.error(f"Authentication failed: {e}")
             return
                 
         # Get inbox ID by listing inboxes and matching email
@@ -189,10 +212,14 @@ def main():
             inbox_id = AGENTMAIL_EMAIL
             logger.warning(f"Inbox not found by email, using email as inbox_id: {inbox_id}")
         
-        response = client.inboxes.messages.list(
-            inbox_id=inbox_id,
-            limit=20
-        )
+        try:
+            response = client.inboxes.messages.list(
+                inbox_id=inbox_id,
+                limit=20
+            )
+        except Exception as e:
+            logger.error(f"Failed to list messages: {e}")
+            return
 
         messages = response.messages or []
         logger.info(f"📧 Processing {len(messages)} emails...")
@@ -204,6 +231,11 @@ def main():
         processed_changed = False
 
         for msg in messages:
+            # Respect potential rate limits
+            # If too many requests, break early
+            if len(sent_links) > 1000:
+                logger.warning("Sent links buffer large, breaking to avoid overload")
+                break
             # Some SDK versions return dicts; convert to simple object for attribute access
             if isinstance(msg, dict):
                 class SimpleMsg:
