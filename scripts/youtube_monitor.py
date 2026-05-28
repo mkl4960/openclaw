@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+print("=== YouTube monitor script started ===")
 """
 YouTube Live Link Monitor - Enhanced
 Scans laumiex@agentmail.to for emails with "新澤西州宣恩堂中文主日崇拜連結"
