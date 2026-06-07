@@ -1,8 +1,8 @@
 {
-  "last_checked": "2026-06-07T16:37:20Z",
+  "last_checked": "2026-06-07T12:40:01-04:00",
   "restarts": [
     {
-      "timestamp": "2026-06-07T12:35:01-04:00",
+      "timestamp": "2026-06-07T12:40:01-04:00",
       "error": "HTTP 302",
       "url": "https://zobuddy.zo.computer/"
     }
