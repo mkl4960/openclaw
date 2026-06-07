@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Zo-Computer Restart Dashboard</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; }
+        .stats { background: #f0f0f0; padding: 10px; border-radius: 5px; margin: 10px 0; }
+        .last-checked { color: #2c3e50; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h1>Zo-Computer Restart Dashboard</h1>
+    <div class="stats">
+        <p><strong>Last Checked:</strong> <span id="lastChecked">Loading...</span></p>
+        <h2>Restart Events</h2>
+        <ul id="restartsList"></ul>
+    </div>
+    <script>
+        // Load restarts.json and update dashboard
+        fetch('/restarts.json')
+            .then(response => response.json())
+            .then(data => {
+                // Update last checked timestamp
+                document.getElementById('lastChecked').textContent =
+                    data.last_checked || 'Never'</p>
+
+                // Display restart events
+                const restartsList = document.getElementById('restartsList');
+                data.restarts.forEach(timestamp => {
+                    const li = document.createElement('li');
+                    li.textContent = new Date(timestamp).toLocaleString();
+                    restartsList.appendChild(li);
+                });
+            });
+    </script>
+</body>
+</html>
